@@ -10,6 +10,7 @@ import os
 import joblib
 import pickle
 import torch
+import argparse
 
 from regr.sensor.pytorch.sensors import FunctionalSensor, ReaderSensor
 from regr.sensor.pytorch.learners import ModuleLearner
@@ -24,6 +25,12 @@ from sensors.TypeComparison import TypeComparison
 from readers.TypenetReader import WikiReader
 
 import config
+
+# args
+parser = argparse.ArgumentParser()
+parser.add_argument('--limit', dest='limit', type=int, const=sum, default=max)
+
+args = parser.parse_args()
 
 # load data
 file_data = {}
@@ -45,7 +52,7 @@ file_data['type_dict'] = joblib.load(os.path.join('resources/MIL_data/TypeNet_ty
 with open(os.path.join('resources/MIL_data/entity_type_dict_orig.joblib'), "rb") as file:
     file_data['entity_type_dict'] = pickle.load(file, fix_imports=True, encoding="latin1")
 
-wiki_train = WikiReader(file='resources/MIL_data/train.entities', type='file', file_data=file_data, bag_size=20, limit_size=5)
+wiki_train = WikiReader(file='resources/MIL_data/train.entities', type='file', file_data=file_data, bag_size=20, limit_size=args.limit)
 
 print('building graph')
 # get graph attributes
