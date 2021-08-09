@@ -5,6 +5,7 @@ from regr.graph import Graph, Concept
 from regr.sensor.pytorch.sensors import ReaderSensor
 from regr.graph.concept import EnumConcept
 import json
+import config
 
 with Graph('application') as app_graph:
     app_graph.ontology='typenet.owl'
@@ -3889,5 +3890,7 @@ with Graph('application') as app_graph:
         lbl_list = json.load(lbl_file)
 
     print('%d labels loaded' % (int(len(lbl_list))))
+
+    assert len(lbl_list) == config.num_types
 
     label = mention(name='label', ConceptClass=EnumConcept, values=lbl_list)

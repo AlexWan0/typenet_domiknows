@@ -222,6 +222,9 @@ class WikiReader(RegrReader):
         print('WikiReader: processing data')
         type_dict, entity_type_dict, fb_type_size, typenet_matrix, map_old_to_new = filter_fb_types(self.type_dict, self.entity_type_dict, self.typenet_matrix_orig)
         
+        print('num fb types: ', fb_type_size)
+        assert config.num_types = fb_type_size
+
         self.dataset_all = []
 
         total = None
