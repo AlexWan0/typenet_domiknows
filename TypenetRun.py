@@ -56,6 +56,7 @@ wiki_train = WikiReader(file='resources/MIL_data/train.entities', type='file', f
 
 print('building graph')
 # get graph attributes
+app_graph.detach()
 mention = app_graph['mention']
 label = app_graph['label']
 
@@ -64,7 +65,7 @@ mention['MentionRepresentation'] = ReaderSensor(keyword='MentionRepresentation')
 mention['Context'] = ReaderSensor(keyword='Context')
 
 # label data sensors
-mention[label] = ReaderSensor(keyword='GoldTypes')
+mention[label] = ReaderSensor(keyword='GoldTypes', label=True)
 
 # module learners
 mention['encoded'] = ModuleLearner('Context', 'MentionRepresentation', module=MLPEncoder(pretrained_embeddings=file_data['embeddings'], mention_dim=file_data['embeddings'].shape[-1]))
