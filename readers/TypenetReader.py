@@ -162,17 +162,17 @@ def filter_fb_types(type_dict, entity_type_dict, typenet_matrix_orig):
     fb_types = [_type for _type in type_dict if not _type.startswith("Synset")]
     wordnet_types = [_type for _type in type_dict if _type.startswith("Synset")]
 
-    '''def fix_name(orig):
-                    orig = orig.replace('-', '_')
-                    if orig[:7] == 'Synset(':
-                        new = 'Synset__' + orig[8:-2]
-                        return new.replace('.', '__')
-                    else:
-                        return orig.replace('/', '__')
-            
-                import json
-                with open('labels.json', 'w+') as file_out:
-                    json.dump([fix_name(_type) for _type in fb_types], file_out)'''
+    def fix_name(orig):
+        orig = orig.replace('-', '_')
+        if orig[:7] == 'Synset(':
+            new = 'Synset__' + orig[8:-2]
+            return new.replace('.', '__')
+        else:
+            return orig.replace('/', '__')
+
+    import json
+    with open('labels.json', 'w+') as file_out:
+        json.dump([fix_name(_type) for _type in fb_types], file_out)
 
     # reorder types to make fb types appear first
     all_types = fb_types + wordnet_types
