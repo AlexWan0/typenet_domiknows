@@ -298,7 +298,7 @@ class WikiReader(RegrReader):
                         for _type in entity_type_dict[ent]:
                             assert(_type < fb_type_size)
                             #bit_vec[_type] = 1.0
-                            labels.append([_type])
+                            labels.append(_type)
 
                     all_mention_data['gold_types'] = labels
 
