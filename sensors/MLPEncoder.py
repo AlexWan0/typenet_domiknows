@@ -13,7 +13,7 @@ class MLPEncoder(nn.Module):
         self.embeddings.weight.requires_grad = False
     
         self.lin1 = nn.Linear(mention_dim, hidden_dim*2)
-        self.lin2 = nn.Linear(hidden_dim*2, 1072)
+        self.lin2 = nn.Linear(hidden_dim*2, config.num_types)
         
         self.relu = nn.ReLU()
     
