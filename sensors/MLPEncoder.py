@@ -17,13 +17,12 @@ class MLPEncoder(nn.Module):
         self.relu = nn.ReLU()
     
     def forward(self, sentences, mention_rep):
-        sentences = sentences.to(device=self.device)
         mention_rep = mention_rep.to(device=self.device)
-        
+
         embed_bag = torch.empty((len(sentences), self.embedding_shape[-1]))
 
         for i, sent in enumerate(sentences):
-            sent_tensor = torch.tensor(sent, dtype=int)
+            sent_tensor = torch.tensor(sent, dtype=int).to(device=self.device)
 
             sentence_embed = self.embeddings(sent_tensor)
 
