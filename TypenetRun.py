@@ -28,7 +28,7 @@ import config
 
 # args
 parser = argparse.ArgumentParser()
-parser.add_argument('--limit', dest='limit', type=int, const=sum, default=max)
+parser.add_argument('--limit', dest='limit', type=int, default=None)
 
 args = parser.parse_args()
 

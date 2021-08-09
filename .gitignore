@@ -51,3 +51,6 @@ docs/_build/
 
 # resources
 resources/
+
+# ipython notebook checkpoints
+.ipynb_checkpoints/
