@@ -292,14 +292,17 @@ class WikiReader(RegrReader):
 
                         self.add_to_dict(all_mention_data, data)
 
-                    bit_vec = [0]*fb_type_size  # predictions are made only for freebase types
+                    #bit_vec = [0]*fb_type_size  # predictions are made only for freebase types
+                    labels = []
                     if entity_type_dict is not None:
                         for _type in entity_type_dict[ent]:
                             assert(_type < fb_type_size)
-                            bit_vec[_type] = 1.0    
+                            #bit_vec[_type] = 1.0
+                            labels.append([_type])
 
-                    all_mention_data['gold_types'] = [bit_vec] * self.bag_size
-                    all_mention_data['ent'] = [ent] * self.bag_size
+                    all_mention_data['gold_types'] = labels
+
+                    #all_mention_data['ent'] = [ent] * self.bag_size
 
                     self.dataset_all.append(all_mention_data)
         print('WikiReader: finished processing data')
@@ -335,5 +338,5 @@ class WikiReader(RegrReader):
     def getGoldTypesval(self, item):
         return item['gold_types']
 
-    def getEntityval(self, item):
-        return item['ent']
+    #def getEntityval(self, item):
+    #    return item['ent']
