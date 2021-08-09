@@ -6,6 +6,7 @@ import pickle
 import joblib
 import os
 import h5py
+from tqdm.autonotebook import tqdm
 
 from regr.data.reader import RegrReader
 
@@ -223,7 +224,7 @@ class WikiReader(RegrReader):
         
         self.dataset_all = []
 
-        for i, ent in enumerate(train_entities):
+        for i, ent in tqdm(enumerate(train_entities)):
             if i == self.limit_size:
                 break
 
