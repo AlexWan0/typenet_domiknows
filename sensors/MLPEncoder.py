@@ -1,5 +1,6 @@
 import torch
 from torch import nn
+import config
 
 class MLPEncoder(nn.Module):
     def __init__(self, pretrained_embeddings, mention_dim, hidden_dim=128):
@@ -17,12 +18,12 @@ class MLPEncoder(nn.Module):
         self.relu = nn.ReLU()
     
     def forward(self, sentences, mention_rep):
-        mention_rep = mention_rep.to(device=self.device)
+        mention_rep = mention_rep.to(device=config.device)
 
         embed_bag = torch.empty((len(sentences), self.embedding_shape[-1]))
 
         for i, sent in enumerate(sentences):
-            sent_tensor = torch.tensor(sent, dtype=int).to(device=self.device)
+            sent_tensor = torch.tensor(sent, dtype=int).to(device=config.device)
 
             sentence_embed = self.embeddings(sent_tensor)
 
