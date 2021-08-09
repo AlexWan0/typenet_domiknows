@@ -300,7 +300,9 @@ class WikiReader(RegrReader):
                             #bit_vec[_type] = 1.0
                             labels.append(_type)
 
-                    all_mention_data['gold_types'] = labels
+                    print(labels)
+
+                    all_mention_data['gold_types'] = [labels[0]]
 
                     #all_mention_data['ent'] = [ent] * self.bag_size
 
