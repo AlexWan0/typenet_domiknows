@@ -224,7 +224,13 @@ class WikiReader(RegrReader):
         
         self.dataset_all = []
 
-        for i, ent in tqdm(enumerate(train_entities), total=len(train_entities)):
+        total = None
+        if self.limit_size == None:
+            total = len(train_entities)
+        else:
+            total = self.limit_size
+
+        for i, ent in tqdm(enumerate(train_entities), total=total):
             if i == self.limit_size:
                 break
 
