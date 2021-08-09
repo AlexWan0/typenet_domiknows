@@ -16,12 +16,14 @@ class TypeComparison(nn.Module):
         return max_scores + torch.log(torch.sum(torch.exp(_tensor - max_scores.unsqueeze(-1)), dim = -1)) #(batch_size, scores)
 
     def forward(self, encoded):
-        type_matrix = self.type_embeddings.weight
-        
-        dot_compare = torch.matmul(encoded, torch.transpose(type_matrix, 0, 1)) # (bag_size x embed_dim) * (embed_dim x num_types)
-        
-        logits = self.log_sum_exp(dot_compare.unsqueeze(0).transpose(1,2))
+        '''type_matrix = self.type_embeddings.weight
+                                
+                                dot_compare = torch.matmul(encoded, torch.transpose(type_matrix, 0, 1)) # (bag_size x embed_dim) * (embed_dim x num_types)
+                                
+                                logits = self.log_sum_exp(dot_compare.unsqueeze(0).transpose(1,2))
+                        
+                                print(logits)'''
 
-        print(logits)
+        print(self.type_embeddings.weight.shape)
 
-        return logits
+        return encoded

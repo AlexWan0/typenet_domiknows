@@ -13,21 +13,21 @@ class MLPEncoder(nn.Module):
         self.embeddings.weight.requires_grad = False
     
         self.lin1 = nn.Linear(mention_dim, hidden_dim*2)
-        self.lin2 = nn.Linear(hidden_dim*2, hidden_dim)
+        self.lin2 = nn.Linear(hidden_dim*2, 1072)
         
         self.relu = nn.ReLU()
     
     def forward(self, sentences, mention_rep):
         mention_rep = mention_rep.to(device=config.device)
 
-        embed_bag = torch.empty((len(sentences), self.embedding_shape[-1]))
-
-        for i, sent in enumerate(sentences):
-            sent_tensor = torch.tensor(sent, dtype=int).to(device=config.device)
-
-            sentence_embed = self.embeddings(sent_tensor)
-
-            embed_bag[i] = torch.mean(sentence_embed, dim=0)
+        '''embed_bag = torch.empty((len(sentences), self.embedding_shape[-1]))
+                        
+                                for i, sent in enumerate(sentences):
+                                    sent_tensor = torch.tensor(sent, dtype=int).to(device=config.device)
+                        
+                                    sentence_embed = self.embeddings(sent_tensor)
+                        
+                                    embed_bag[i] = torch.mean(sentence_embed, dim=0)'''
 
         lin1_out = self.lin1(mention_rep.float()) #torch.cat((embed_bag, mention_rep), dim=1).float()
         lin1_out = self.relu(lin1_out)
