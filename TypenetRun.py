@@ -79,5 +79,5 @@ program = SolverPOIProgram(
 
 print('training')
 # train
-program.train(wiki_train, train_epoch_num=1, Optim=torch.optim.Adam, device='cpu')
+program.train(wiki_train, train_epoch_num=1, Optim=torch.optim.Adam, device='cuda')
 
