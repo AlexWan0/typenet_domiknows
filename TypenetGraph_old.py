@@ -26,7 +26,6 @@ with Graph('global') as app_graph:
     label = mention(name='tag', ConceptClass=EnumConcept, values=lbl_list)
 
 
-    '''
     Synset__entity__n__01 = Concept(name='Synset__entity__n__01')
     Synset__entity__n__01.is_a(mention)
 
@@ -3901,4 +3900,5 @@ with Graph('global') as app_graph:
     Synset__register__n__01.is_a(Synset__written_record__n__01)
     __internet__top_level_domain_registry = Concept(name='__internet__top_level_domain_registry')
     __internet__top_level_domain_registry.is_a(Synset__register__n__01)
-    '''
+
+
