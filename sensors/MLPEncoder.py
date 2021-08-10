@@ -1,6 +1,7 @@
 import torch
 from torch import nn
 import config
+import time
 
 class MLPEncoder(nn.Module):
     def __init__(self, pretrained_embeddings, mention_dim, hidden_dim=128):
@@ -29,9 +30,12 @@ class MLPEncoder(nn.Module):
                         
                                     embed_bag[i] = torch.mean(sentence_embed, dim=0)'''
 
+        t1 = time.time()
         lin1_out = self.lin1(mention_rep.float()) #torch.cat((embed_bag, mention_rep), dim=1).float()
         lin1_out = self.relu(lin1_out)
         
         lin2_out = self.lin2(lin1_out)
         
+        print('time', time.time() - t1)
+
         return lin2_out
