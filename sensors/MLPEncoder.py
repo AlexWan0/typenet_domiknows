@@ -30,12 +30,12 @@ class MLPEncoder(nn.Module):
                         
                                     embed_bag[i] = torch.mean(sentence_embed, dim=0)'''
 
-        t1 = time.time()
+        #t1 = time.time()
         lin1_out = self.lin1(mention_rep.float()) #torch.cat((embed_bag, mention_rep), dim=1).float()
         lin1_out = self.relu(lin1_out)
         
         lin2_out = self.lin2(lin1_out)
 
-        print('time MLPEncoder', time.time() - t1)
+        #print('time MLPEncoder', time.time() - t1)
 
         return lin2_out

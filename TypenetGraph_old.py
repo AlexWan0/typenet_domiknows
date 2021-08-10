@@ -23,7 +23,7 @@ with Graph('global') as app_graph:
     print('%d labels loaded' % (int(len(lbl_list))))
     assert len(lbl_list) == config.num_types
 
-    label = mention(name='tag', ConceptClass=EnumConcept, values=lbl_list[:100])
+    label = mention(name='tag', ConceptClass=EnumConcept, values=lbl_list)
 
 
     '''
