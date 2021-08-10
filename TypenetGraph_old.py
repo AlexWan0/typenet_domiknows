@@ -14,7 +14,6 @@ Relation.clear()
 
 with Graph('application') as app_graph:
     mention = Concept(name='mention')
-    
 
     with open('labels.json', 'r') as lbl_file:
         lbl_list = json.load(lbl_file)
