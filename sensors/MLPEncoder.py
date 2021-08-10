@@ -35,7 +35,7 @@ class MLPEncoder(nn.Module):
         lin1_out = self.relu(lin1_out)
         
         lin2_out = self.lin2(lin1_out)
-        
-        print('time', time.time() - t1)
+
+        print('time MLPEncoder', time.time() - t1)
 
         return lin2_out

@@ -1,5 +1,6 @@
 from torch import nn
 import torch
+import time
 
 class TypeComparison(nn.Module):
     def __init__(self, num_types, type_embed_dim):
@@ -26,7 +27,11 @@ class TypeComparison(nn.Module):
 
         #print(self.type_embeddings.weight.shape)
 
+        t1 = time.time()
+
         logits = self.log_sum_exp(encoded.permute(1, 0).unsqueeze(0))
+
+        print('time TypeComparison', time.time() - t1)
 
         #print(logits.shape)
 
