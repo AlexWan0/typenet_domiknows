@@ -12,9 +12,7 @@ Graph.clear()
 Concept.clear()
 Relation.clear()
 
-with Graph('global') as app_graph:
-    app_graph.ontology='typenet.owl'
-
+with Graph('application') as app_graph:
     mention = Concept(name='mention')
     
 
@@ -3900,7 +3898,3 @@ with Graph('global') as app_graph:
     Synset__register__n__01.is_a(Synset__written_record__n__01)
     __internet__top_level_domain_registry = Concept(name='__internet__top_level_domain_registry')
     __internet__top_level_domain_registry.is_a(Synset__register__n__01)
-
-
-
-

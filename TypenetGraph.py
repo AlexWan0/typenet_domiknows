@@ -8,8 +8,6 @@ import json
 import config
 
 with Graph('application') as app_graph:
-    app_graph.ontology='typenet.owl'
-
     mention = Concept(name='mention')
 
     with open('labels.json', 'r') as lbl_file:
