@@ -302,7 +302,7 @@ class WikiReader(RegrReader):
 
                     #print(labels)
 
-                    all_mention_data['gold_types'] = labels
+                    all_mention_data['gold_types'] = [[x] for x in labels]
 
                     #all_mention_data['ent'] = [ent] * self.bag_size
 
