@@ -11,12 +11,13 @@ import joblib
 import pickle
 import torch
 import argparse
+from sklearn.metrics import accuracy_score
 
 from regr.sensor.pytorch.sensors import FunctionalSensor, ReaderSensor
 from regr.sensor.pytorch.learners import ModuleLearner
 from regr.program import SolverPOIProgram, IMLProgram, POIProgram
-from regr.program.metric import MacroAverageTracker, PRF1Tracker, DatanodeCMMetric
-from regr.program.loss import NBCrossEntropyLoss, BCEWithLogitsLoss
+from regr.program.metric import MacroAverageTracker, PRF1Tracker, DatanodeCMMetric, ValueTracker
+from regr.program.loss import NBCrossEntropyLoss, BCEWithLogitsLoss, BCEWithLogitsIMLoss
 
 from TypenetGraph_old import app_graph
 
@@ -56,9 +57,11 @@ with open(os.path.join('resources/MIL_data/entity_type_dict_orig.joblib'), "rb")
 
 wiki_train = WikiReader(file='resources/MIL_data/train.entities', type='file', file_data=file_data, bag_size=20, limit_size=args.limit)
 
-for a in wiki_train:
-    print(a['GoldTypes'])
-    break
+'''i = 0
+for w in wiki_train:
+    if i == 10:
+        break
+    print('num labels:', sum(w['GoldTypes'][0]))'''
 
 print('building graph')
 # get graph attributes
@@ -77,13 +80,16 @@ mention[label] = ReaderSensor(keyword='GoldTypes', label=True)
 mention['encoded'] = ModuleLearner('Context', 'MentionRepresentation', module=MLPEncoder(pretrained_embeddings=file_data['embeddings'], mention_dim=file_data['embeddings'].shape[-1]))
 mention[label] = ModuleLearner('encoded', module=TypeComparison(config.num_types, config.type_embed_dim))
 
-app_graph.visualize("./image")
-
 # create program
-program = SolverPOIProgram(
+
+def multilabel_metric(pr, gt, data_item, prop):
+    rounded_pr = np.round(torch.sigmoid(pr.data).numpy())
+    return accuracy_score(gt, rounded_pr)
+
+program = POIProgram(
     app_graph,
-    loss=MacroAverageTracker(NBCrossEntropyLoss()),
-    metric=PRF1Tracker(DatanodeCMMetric())
+    loss=MacroAverageTracker(BCEWithLogitsLoss()),
+    metric=MacroAverageTracker(multilabel_metric)
     )
 
 print('training')
