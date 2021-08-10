@@ -26,6 +26,8 @@ from readers.TypenetReader import WikiReader
 
 import config
 
+print('current device: ', config.device)
+
 # args
 parser = argparse.ArgumentParser()
 parser.add_argument('--limit', dest='limit', type=int, default=None)
