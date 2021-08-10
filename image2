@@ -1,0 +1,3438 @@
+digraph application {
+	label="Graph: application"
+	mention
+	label
+	Synset__entity__n__01
+	Synset__physical_entity__n__01
+	Synset__object__n__01
+	Synset__whole__n__02
+	Synset__natural_object__n__01
+	Synset__asterism__n__02
+	Synset__meteoroid__n__01
+	Synset__plant_part__n__01
+	Synset__plant_organ__n__01
+	Synset__reproductive_structure__n__01
+	Synset__fruit__n__01
+	Synset__edible_fruit__n__01
+	Synset__celestial_body__n__01
+	Synset__minor_planet__n__01
+	Synset__satellite__n__03
+	Synset__body__n__04
+	Synset__particle__n__02
+	Synset__universe__n__01
+	Synset__living_thing__n__01
+	Synset__achiever__n__01
+	Synset__contestant__n__01
+	Synset__climber__n__04
+	Synset__player__n__01
+	Synset__champion__n__01
+	Synset__acquirer__n__01
+	Synset__recipient__n__01
+	Synset__honoree__n__01
+	Synset__addressee__n__01
+	Synset__adult__n__01
+	Synset__important_person__n__01
+	Synset__luminary__n__01
+	Synset__character__n__05
+	Synset__professional__n__01
+	Synset__health_professional__n__01
+	Synset__medical_practitioner__n__01
+	Synset__publisher__n__02
+	Synset__critic__n__01
+	Synset__educator__n__01
+	Synset__entertainer__n__01
+	Synset__performer__n__01
+	Synset__star__n__04
+	Synset__television_star__n__01
+	Synset__musician__n__01
+	Synset__singer__n__01
+	Synset__percussionist__n__01
+	Synset__communicator__n__01
+	Synset__scriptwriter__n__01
+	Synset__screenwriter__n__01
+	Synset__compiler__n__01
+	Synset__informant__n__01
+	Synset__negotiator__n__01
+	Synset__representative__n__01
+	Synset__head_of_state__n__01
+	Synset__articulator__n__01
+	Synset__speaker__n__01
+	Synset__inquirer__n__01
+	Synset__worker__n__01
+	Synset__skilled_worker__n__01
+	Synset__official__n__01
+	Synset__judge__n__01
+	Synset__officeholder__n__01
+	Synset__cook__n__01
+	Synset__serviceman__n__01
+	Synset__sailor__n__01
+	Synset__mariner__n__01
+	Synset__officer__n__04
+	Synset__painter__n__02
+	Synset__letterer__n__01
+	Synset__adjudicator__n__01
+	Synset__referee__n__01
+	Synset__creator__n__02
+	Synset__musician__n__02
+	Synset__painter__n__01
+	Synset__colorist__n__01
+	Synset__photographer__n__01
+	Synset__maker__n__01
+	Synset__manufacturer__n__02
+	Synset__originator__n__01
+	Synset__producer__n__02
+	Synset__choreographer__n__01
+	Synset__couturier__n__01
+	Synset__costumier__n__01
+	Synset__owner__n__02
+	Synset__holder__n__02
+	Synset__survivor__n__02
+	Synset__traveler__n__01
+	Synset__rider__n__01
+	Synset__pedaler__n__01
+	Synset__programmer__n__01
+	Synset__computer_user__n__01
+	Synset__amateur__n__01
+	Synset__combatant__n__01
+	Synset__follower__n__01
+	Synset__advocate__n__01
+	Synset__supporter__n__01
+	Synset__subscriber__n__01
+	Synset__leader__n__01
+	Synset__commander__n__02
+	Synset__superior__n__01
+	Synset__supervisor__n__01
+	Synset__stage_director__n__01
+	Synset__art_director__n__01
+	Synset__trainer__n__01
+	Synset__coach__n__01
+	Synset__head__n__04
+	Synset__administrator__n__01
+	Synset__executive__n__01
+	Synset__vice_president__n__01
+	Synset__aristocrat__n__01
+	Synset__male_aristocrat__n__01
+	Synset__capitalist__n__02
+	Synset__businessperson__n__01
+	Synset__businessman__n__01
+	Synset__operator__n__03
+	Synset__owner__n__01
+	Synset__supplier__n__01
+	Synset__distributor__n__01
+	Synset__investor__n__01
+	Synset__party__n__05
+	Synset__contractor__n__03
+	Synset__builder__n__03
+	Synset__contractor__n__01
+	Synset__inhabitant__n__01
+	Synset__american__n__03
+	Synset__north_american__n__01
+	Synset__canadian__n__01
+	Synset__resident__n__01
+	Synset__linguist__n__02
+	Synset__peer__n__01
+	Synset__associate__n__01
+	Synset__member__n__01
+	Synset__inductee__n__01
+	Synset__committee_member__n__01
+	Synset__director__n__02
+	Synset__participant__n__01
+	Synset__good_person__n__01
+	Synset__benefactor__n__01
+	Synset__patron__n__03
+	Synset__bad_person__n__01
+	Synset__destroyer__n__02
+	Synset__amerindian__n__01
+	Synset__person_of_color__n__01
+	Synset__relative__n__01
+	Synset__unfortunate__n__01
+	Synset__victim__n__01
+	Synset__scientist__n__01
+	Synset__physicist__n__01
+	Synset__authority__n__02
+	Synset__adventurer__n__01
+	Synset__expert__n__01
+	Synset__authority__n__03
+	Synset__adviser__n__01
+	Synset__evaluator__n__01
+	Synset__user__n__01
+	Synset__consumer__n__01
+	Synset__religious_person__n__01
+	Synset__intellectual__n__01
+	Synset__theorist__n__01
+	Synset__preserver__n__03
+	Synset__defender__n__01
+	Synset__custodian__n__01
+	Synset__curator__n__01
+	Synset__ruler__n__01
+	Synset__sovereign__n__01
+	Synset__lord__n__03
+	Synset__host__n__03
+	Synset__artifact__n__01
+	Synset__instrumentality__n__03
+	Synset__device__n__01
+	Synset__machine__n__01
+	Synset__motor__n__01
+	Synset__jet_engine__n__01
+	Synset__aircraft_engine__n__01
+	Synset__printer__n__03
+	Synset__character_printer__n__01
+	Synset__ticker__n__03
+	Synset__electrical_device__n__01
+	Synset__battery__n__02
+	Synset__keyboard_instrument__n__01
+	Synset__electronic_instrument__n__01
+	Synset__stringed_instrument__n__01
+	Synset__mechanism__n__05
+	Synset__mechanical_device__n__01
+	Synset__piston__n__02
+	Synset__gear__n__03
+	Synset__memory_device__n__01
+	Synset__recording__n__03
+	Synset__sound_recording__n__01
+	Synset__instrument__n__01
+	Synset__scientific_instrument__n__01
+	Synset__magnifier__n__01
+	Synset__medium__n__01
+	Synset__print_media__n__01
+	Synset__press__n__02
+	Synset__newspaper__n__01
+	Synset__system__n__01
+	Synset__network__n__05
+	Synset__computer_network__n__01
+	Synset__world_wide_web__n__01
+	Synset__computer_system__n__01
+	Synset__platform__n__03
+	Synset__implement__n__01
+	Synset__utensil__n__01
+	Synset__equipment__n__01
+	Synset__photographic_equipment__n__01
+	Synset__camera__n__01
+	Synset__electronic_equipment__n__01
+	Synset__material__n__04
+	Synset__conveyance__n__03
+	Synset__vehicle__n__01
+	Synset__craft__n__02
+	Synset__aircraft__n__01
+	Synset__vessel__n__02
+	Synset__ski_tow__n__01
+	Synset__container__n__01
+	Synset__wheeled_vehicle__n__01
+	Synset__bicycle__n__01
+	Synset__self_propelled_vehicle__n__01
+	Synset__motor_vehicle__n__01
+	Synset__car__n__01
+	Synset__electric_locomotive__n__01
+	Synset__steam_locomotive__n__01
+	Synset__diesel_locomotive__n__01
+	Synset__facility__n__01
+	Synset__military_installation__n__01
+	Synset__communication_system__n__02
+	Synset__network__n__02
+	Synset__airfield__n__01
+	Synset__course__n__09
+	Synset__depository__n__01
+	Synset__station__n__01
+	Synset__terminal__n__01
+	Synset__broadcasting_station__n__01
+	Synset__creation__n__02
+	Synset__product__n__02
+	Synset__work__n__02
+	Synset__publication__n__01
+	Synset__comic_book__n__01
+	Synset__issue__n__02
+	Synset__series__n__03
+	Synset__collection__n__02
+	Synset__compilation__n__01
+	Synset__reference_book__n__01
+	Synset__handbook__n__01
+	Synset__piece__n__06
+	Synset__article__n__01
+	Synset__art__n__01
+	Synset__genre__n__04
+	Synset__landscape__n__03
+	Synset__invention__n__02
+	Synset__commodity__n__01
+	Synset__merchandise__n__01
+	Synset__release__n__01
+	Synset__consumer_goods__n__01
+	Synset__clothing__n__01
+	Synset__decoration__n__01
+	Synset__design__n__04
+	Synset__emblem__n__01
+	Synset__heraldry__n__02
+	Synset__covering__n__02
+	Synset__protective_covering__n__01
+	Synset__surface__n__01
+	Synset__horizontal_surface__n__01
+	Synset__platform__n__01
+	Synset__stage__n__03
+	Synset__mise_en_scene__n__01
+	Synset__way__n__06
+	Synset__track__n__10
+	Synset__trail__n__02
+	Synset__area__n__01
+	Synset__scene__n__01
+	Synset__district__n__01
+	Synset__administrative_district__n__01
+	Synset__state__n__01
+	Synset__municipality__n__01
+	Synset__city__n__01
+	Synset__town__n__01
+	Synset__kingdom__n__02
+	Synset__reservation__n__01
+	Synset__indian_reservation__n__01
+	Synset__ward__n__02
+	Synset__jurisdiction__n__02
+	Synset__parish__n__02
+	Synset__residential_district__n__01
+	Synset__suburb__n__01
+	Synset__geographical_area__n__01
+	Synset__tract__n__01
+	Synset__site__n__01
+	Synset__park__n__01
+	Synset__park__n__02
+	Synset__urban_area__n__01
+	Synset__field__n__14
+	Synset__place__n__02
+	Synset__zone__n__02
+	Synset__point__n__02
+	Synset__geographic_point__n__01
+	Synset__workplace__n__01
+	Synset__exchange__n__06
+	Synset__farm__n__01
+	Synset__address__n__02
+	Synset__residence__n__01
+	Synset__beginning__n__04
+	Synset__position__n__01
+	Synset__site__n__02
+	Synset__barroom__n__01
+	Synset__natural_elevation__n__01
+	Synset__ice_mass__n__01
+	Synset__range__n__04
+	Synset__region__n__01
+	Synset__county__n__01
+	Synset__extremity__n__04
+	Synset__end__n__01
+	Synset__pass__n__04
+	Synset__remains__n__01
+	Synset__fossil__n__02
+	Synset__part__n__02
+	Synset__component__n__03
+	Synset__ingredient__n__01
+	Synset__hardware__n__03
+	Synset__land__n__04
+	Synset__curio__n__01
+	Synset__causal_agent__n__01
+	Synset__agent__n__03
+	Synset__drug_of_abuse__n__01
+	Synset__medicine__n__02
+	Synset__dose__n__01
+	Synset__tincture__n__04
+	Synset__operator__n__02
+	Synset__power__n__05
+	Synset__influence__n__05
+	Synset__matter__n__03
+	Synset__substance__n__01
+	Synset__chemical__n__01
+	Synset__organic_compound__n__01
+	Synset__macromolecule__n__01
+	Synset__formulation__n__01
+	Synset__explosive__n__01
+	Synset__charge__n__15
+	Synset__body_substance__n__01
+	Synset__liquid_body_substance__n__01
+	Synset__secretion__n__02
+	Synset__fluid__n__01
+	Synset__liquid__n__01
+	Synset__alcohol__n__01
+	Synset__brew__n__01
+	Synset__drinking_water__n__01
+	Synset__atom__n__01
+	Synset__substance__n__07
+	Synset__nutriment__n__01
+	Synset__dainty__n__01
+	Synset__sweet__n__03
+	Synset__candy__n__01
+	Synset__foodstuff__n__02
+	Synset__dairy_product__n__01
+	Synset__nutrient__n__02
+	Synset__water__n__06
+	Synset__propellant__n__01
+	Synset__solid__n__01
+	Synset__food__n__02
+	Synset__produce__n__01
+	Synset__thing__n__12
+	Synset__stream__n__01
+	Synset__part__n__03
+	Synset__body_part__n__01
+	Synset__tissue__n__01
+	Synset__animal_tissue__n__01
+	Synset__nervous_tissue__n__01
+	Synset__fiber_bundle__n__01
+	Synset__connective_tissue__n__01
+	Synset__tube__n__04
+	Synset__vessel__n__01
+	Synset__blood_vessel__n__01
+	Synset__neural_structure__n__01
+	Synset__unit__n__05
+	Synset__molecule__n__01
+	Synset__process__n__06
+	Synset__phenomenon__n__01
+	Synset__natural_phenomenon__n__01
+	Synset__physical_phenomenon__n__01
+	Synset__cloud__n__01
+	Synset__atmospheric_phenomenon__n__01
+	Synset__weather__n__01
+	Synset__atmosphere__n__04
+	Synset__cyclone__n__01
+	Synset__storm__n__01
+	Synset__windstorm__n__01
+	Synset__cyclone__n__02
+	Synset__natural_process__n__01
+	Synset__chemical_process__n__01
+	Synset__mechanism__n__01
+	Synset__processing__n__01
+	Synset__data_processing__n__01
+	Synset__operation__n__04
+	Synset__computer_operation__n__01
+	Synset__storage__n__04
+	Synset__substance__n__04
+	Synset__abstraction__n__06
+	Synset__attribute__n__02
+	Synset__state__n__02
+	Synset__status__n__01
+	Synset__standing__n__01
+	Synset__rating__n__03
+	Synset__legal_status__n__01
+	Synset__relationship__n__03
+	Synset__membership__n__02
+	Synset__condition__n__01
+	Synset__physical_condition__n__01
+	Synset__pathological_state__n__01
+	Synset__ill_health__n__01
+	Synset__illness__n__01
+	Synset__communicable_disease__n__01
+	Synset__condition__n__06
+	Synset__circumstance__n__01
+	Synset__playing_field__n__01
+	Synset__psychological_state__n__01
+	Synset__cognitive_state__n__01
+	Synset__curiosity__n__01
+	Synset__situation__n__01
+	Synset__environment__n__01
+	Synset__sphere__n__01
+	Synset__province__n__02
+	Synset__condition__n__03
+	Synset__fortune__n__04
+	Synset__misfortune__n__02
+	Synset__adversity__n__01
+	Synset__catastrophe__n__02
+	Synset__time__n__05
+	Synset__geological_time__n__01
+	Synset__quality__n__01
+	Synset__characteristic__n__02
+	Synset__appearance__n__01
+	Synset__color__n__08
+	Synset__utility__n__02
+	Synset__function__n__02
+	Synset__suitability__n__01
+	Synset__fitness__n__01
+	Synset__qualification__n__01
+	Synset__property__n__02
+	Synset__magnitude__n__01
+	Synset__size__n__01
+	Synset__extent__n__02
+	Synset__scope__n__01
+	Synset__visual_property__n__01
+	Synset__physical_property__n__01
+	Synset__psychological_feature__n__01
+	Synset__event__n__01
+	Synset__act__n__02
+	Synset__activity__n__01
+	Synset__role__n__04
+	Synset__position__n__09
+	Synset__attempt__n__01
+	Synset__test__n__05
+	Synset__assay__n__04
+	Synset__work__n__01
+	Synset__service__n__01
+	Synset__duty__n__02
+	Synset__job__n__02
+	Synset__care__n__01
+	Synset__treatment__n__01
+	Synset__medical_care__n__01
+	Synset__therapy__n__01
+	Synset__medication__n__02
+	Synset__administration__n__03
+	Synset__grouping__n__02
+	Synset__categorization__n__03
+	Synset__collection__n__04
+	Synset__diversion__n__01
+	Synset__entertainment__n__01
+	Synset__show__n__01
+	Synset__game__n__03
+	Synset__athletic_game__n__01
+	Synset__outdoor_game__n__01
+	Synset__field_game__n__01
+	Synset__cricket__n__02
+	Synset__celebration__n__02
+	Synset__festival__n__02
+	Synset__pastime__n__01
+	Synset__operation__n__05
+	Synset__mission__n__02
+	Synset__protection__n__01
+	Synset__self_defense__n__01
+	Synset__education__n__01
+	Synset__turn__n__03
+	Synset__move__n__05
+	Synset__aid__n__02
+	Synset__support__n__02
+	Synset__occupation__n__01
+	Synset__position__n__06
+	Synset__regency__n__03
+	Synset__employment__n__02
+	Synset__practice__n__01
+	Synset__ceremony__n__03
+	Synset__religious_ceremony__n__01
+	Synset__rite__n__01
+	Synset__office__n__06
+	Synset__speech_act__n__01
+	Synset__request__n__02
+	Synset__questioning__n__01
+	Synset__interrogation__n__03
+	Synset__address__n__03
+	Synset__public_speaking__n__01
+	Synset__disclosure__n__01
+	Synset__discovery__n__02
+	Synset__disagreement__n__03
+	Synset__dispute__n__01
+	Synset__action__n__01
+	Synset__change__n__03
+	Synset__change_of_state__n__01
+	Synset__termination__n__05
+	Synset__destruction__n__01
+	Synset__cooking__n__01
+	Synset__change_of_magnitude__n__01
+	Synset__increase__n__05
+	Synset__expansion__n__01
+	Synset__expansion__n__04
+	Synset__motion__n__06
+	Synset__travel__n__01
+	Synset__journey__n__01
+	Synset__tour__n__01
+	Synset__movement__n__11
+	Synset__transportation__n__02
+	Synset__performance__n__03
+	Synset__arrival__n__02
+	Synset__appearance__n__05
+	Synset__accomplishment__n__01
+	Synset__attainment__n__01
+	Synset__record__n__06
+	Synset__communication__n__01
+	Synset__transmission__n__02
+	Synset__modulation__n__02
+	Synset__discovery__n__01
+	Synset__determination__n__01
+	Synset__designation__n__03
+	Synset__social_event__n__01
+	Synset__show__n__03
+	Synset__performance__n__01
+	Synset__match__n__02
+	Synset__tournament__n__01
+	Synset__race__n__01
+	Synset__championship__n__02
+	Synset__athletic_contest__n__01
+	Synset__game__n__02
+	Synset__affair__n__03
+	Synset__ceremony__n__01
+	Synset__happening__n__01
+	Synset__trouble__n__03
+	Synset__misfortune__n__01
+	Synset__mishap__n__02
+	Synset__accident__n__01
+	Synset__calamity__n__01
+	Synset__beginning__n__01
+	Synset__origin__n__03
+	Synset__cause__n__01
+	Synset__factor__n__01
+	Synset__producer__n__03
+	Synset__change__n__01
+	Synset__group_action__n__01
+	Synset__conflict__n__01
+	Synset__vote__n__02
+	Synset__transaction__n__01
+	Synset__commerce__n__01
+	Synset__distribution__n__04
+	Synset__commercial_enterprise__n__02
+	Synset__assembly__n__06
+	Synset__meeting__n__04
+	Synset__session__n__03
+	Synset__due_process__n__01
+	Synset__proceeding__n__01
+	Synset__cognition__n__01
+	Synset__content__n__05
+	Synset__idea__n__01
+	Synset__concept__n__01
+	Synset__category__n__02
+	Synset__kind__n__01
+	Synset__type__n__01
+	Synset__version__n__02
+	Synset__brand__n__02
+	Synset__description__n__03
+	Synset__model__n__02
+	Synset__style__n__03
+	Synset__property__n__04
+	Synset__feature__n__01
+	Synset__attraction__n__04
+	Synset__plan__n__01
+	Synset__blueprint__n__01
+	Synset__knowledge_domain__n__01
+	Synset__humanistic_discipline__n__01
+	Synset__performing_arts__n__01
+	Synset__acting__n__01
+	Synset__portrayal__n__02
+	Synset__character__n__04
+	Synset__science__n__01
+	Synset__natural_science__n__01
+	Synset__life_science__n__01
+	Synset__medical_science__n__01
+	Synset__medicine__n__01
+	Synset__mathematics__n__01
+	Synset__pure_mathematics__n__01
+	Synset__goal__n__01
+	Synset__destination__n__02
+	Synset__spiritual_being__n__01
+	Synset__universe__n__03
+	Synset__topic__n__02
+	Synset__ability__n__02
+	Synset__know_how__n__01
+	Synset__method__n__01
+	Synset__system__n__04
+	Synset__program__n__02
+	Synset__faculty__n__01
+	Synset__attention__n__05
+	Synset__concentration__n__05
+	Synset__focus__n__01
+	Synset__government_building__n__01
+	Synset__medical_building__n__01
+	Synset__hospital__n__01
+	Synset__center__n__03
+	Synset__house__n__01
+	Synset__residence__n__02
+	Synset__religious_residence__n__01
+	Synset__area__n__05
+	Synset__room__n__01
+	Synset__housing__n__01
+	Synset__living_quarters__n__01
+	Synset__dwelling__n__01
+	Synset__plant__n__01
+	Synset__factory__n__01
+	Synset__establishment__n__04
+	Synset__place_of_business__n__01
+	Synset__mercantile_establishment__n__01
+	Synset__body__n__11
+	Synset__creativity__n__01
+	Synset__imagination__n__01
+	Synset__imaginary_being__n__01
+	Synset__monster__n__01
+	Synset__attitude__n__01
+	Synset__orientation__n__02
+	Synset__position__n__03
+	Synset__paradigm__n__04
+	Synset__structure__n__03
+	Synset__arrangement__n__03
+	Synset__design__n__02
+	Synset__configuration__n__01
+	Synset__classification_system__n__01
+	Synset__rating_system__n__01
+	Synset__process__n__02
+	Synset__basic_cognitive_process__n__01
+	Synset__perception__n__03
+	Synset__sensation__n__01
+	Synset__taste__n__01
+	Synset__relish__n__03
+	Synset__higher_cognitive_process__n__01
+	Synset__thinking__n__01
+	Synset__reasoning__n__01
+	Synset__conjecture__n__03
+	Synset__theorization__n__01
+	Synset__ideology__n__02
+	Synset__information__n__02
+	Synset__datum__n__01
+	Synset__statistic__n__01
+	Synset__evidence__n__01
+	Synset__effect__n__06
+	Synset__side_effect__n__01
+	Synset__motivation__n__01
+	Synset__rational_motive__n__01
+	Synset__reason__n__01
+	Synset__group__n__01
+	Synset__social_group__n__01
+	Synset__institution__n__01
+	Synset__university__n__03
+	Synset__company__n__01
+	Synset__distributor__n__03
+	Synset__sect__n__01
+	Synset__order__n__11
+	Synset__medical_institution__n__01
+	Synset__enterprise__n__02
+	Synset__manufacturer__n__01
+	Synset__bottler__n__01
+	Synset__firm__n__01
+	Synset__carrier__n__05
+	Synset__line__n__23
+	Synset__agency__n__02
+	Synset__news_agency__n__01
+	Synset__syndicate__n__03
+	Synset__commercial_enterprise__n__01
+	Synset__unit__n__03
+	Synset__administrative_unit__n__01
+	Synset__division__n__04
+	Synset__committee__n__01
+	Synset__gang__n__03
+	Synset__ensemble__n__01
+	Synset__union__n__01
+	Synset__force__n__04
+	Synset__staff__n__01
+	Synset__association__n__01
+	Synset__polity__n__02
+	Synset__company__n__04
+	Synset__body__n__02
+	Synset__administration__n__02
+	Synset__political_system__n__01
+	Synset__autocracy__n__01
+	Synset__monarchy__n__01
+	Synset__kingdom__n__04
+	Synset__gathering__n__01
+	Synset__assembly__n__04
+	Synset__court__n__01
+	Synset__municipality__n__02
+	Synset__town__n__02
+	Synset__borough__n__02
+	Synset__class__n__02
+	Synset__meeting__n__01
+	Synset__conference__n__01
+	Synset__sector__n__02
+	Synset__kin__n__02
+	Synset__genealogy__n__01
+	Synset__lineage__n__01
+	Synset__house__n__06
+	Synset__royalty__n__02
+	Synset__artistic_movement__n__01
+	Synset__collection__n__01
+	Synset__class__n__01
+	Synset__library__n__02
+	Synset__arrangement__n__02
+	Synset__ordering__n__01
+	Synset__series__n__01
+	Synset__hierarchy__n__01
+	Synset__sequence__n__01
+	Synset__ethnic_group__n__01
+	Synset__people__n__01
+	Synset__class__n__03
+	Synset__upper_class__n__01
+	Synset__elite__n__01
+	Synset__nobility__n__01
+	Synset__knighthood__n__01
+	Synset__biological_group__n__01
+	Synset__animal_group__n__01
+	Synset__taxonomic_group__n__01
+	Synset__variety__n__03
+	Synset__measure__n__02
+	Synset__fundamental_quantity__n__01
+	Synset__time_period__n__01
+	Synset__calendar_month__n__01
+	Synset__date__n__06
+	Synset__calendar_day__n__01
+	Synset__day__n__03
+	Synset__year__n__01
+	Synset__calendar_year__n__01
+	Synset__season__n__01
+	Synset__phase__n__01
+	Synset__mass__n__01
+	Synset__time_unit__n__01
+	Synset__day__n__01
+	Synset__system_of_measurement__n__01
+	Synset__standard__n__01
+	Synset__medium_of_exchange__n__01
+	Synset__relation__n__01
+	Synset__part__n__01
+	Synset__language_unit__n__01
+	Synset__name__n__01
+	Synset__appellation__n__01
+	Synset__title__n__06
+	Synset__title__n__02
+	Synset__possession__n__02
+	Synset__transferred_property__n__01
+	Synset__acquisition__n__02
+	Synset__gift__n__01
+	Synset__aid__n__03
+	Synset__scholarship__n__01
+	Synset__outgo__n__01
+	Synset__cost__n__01
+	Synset__charge__n__03
+	Synset__rate__n__02
+	Synset__assets__n__01
+	Synset__capital__n__01
+	Synset__sum__n__01
+	Synset__gain__n__04
+	Synset__financial_gain__n__01
+	Synset__income__n__01
+	Synset__net_income__n__01
+	Synset__accumulation__n__04
+	Synset__reserve__n__02
+	Synset__relationship__n__01
+	Synset__partnership__n__02
+	Synset__communication__n__02
+	Synset__language__n__01
+	Synset__artificial_language__n__01
+	Synset__written_communication__n__01
+	Synset__writing__n__02
+	Synset__literary_composition__n__01
+	Synset__story__n__02
+	Synset__dramatic_composition__n__01
+	Synset__document__n__01
+	Synset__report__n__01
+	Synset__legal_document__n__01
+	Synset__license__n__01
+	Synset__law__n__02
+	Synset__fundamental_law__n__01
+	Synset__patent__n__01
+	Synset__criticism__n__03
+	Synset__diary__n__01
+	Synset__treatise__n__01
+	Synset__monograph__n__01
+	Synset__matter__n__06
+	Synset__text__n__01
+	Synset__installment__n__03
+	Synset__writing__n__04
+	Synset__coding_system__n__01
+	Synset__code__n__03
+	Synset__program__n__07
+	Synset__application__n__04
+	Synset__code__n__02
+	Synset__notation__n__01
+	Synset__musical_notation__n__01
+	Synset__note__n__03
+	Synset__message__n__02
+	Synset__subject__n__01
+	Synset__information__n__01
+	Synset__format__n__01
+	Synset__database__n__01
+	Synset__fact__n__02
+	Synset__index__n__02
+	Synset__statement__n__01
+	Synset__announcement__n__02
+	Synset__amendment__n__02
+	Synset__prediction__n__02
+	Synset__meteorology__n__01
+	Synset__direction__n__06
+	Synset__rule__n__03
+	Synset__wit__n__01
+	Synset__cartoon__n__01
+	Synset__narrative__n__01
+	Synset__expressive_style__n__01
+	Synset__prose__n__01
+	Synset__nonfiction__n__01
+	Synset__music_genre__n__01
+	Synset__classical_music__n__01
+	Synset__auditory_communication__n__01
+	Synset__music__n__01
+	Synset__song__n__01
+	Synset__anthem__n__01
+	Synset__tune__n__01
+	Synset__theme_song__n__02
+	Synset__section__n__01
+	Synset__passage__n__02
+	Synset__excerpt__n__01
+	Synset__transition__n__05
+	Synset__speech__n__02
+	Synset__saying__n__01
+	Synset__motto__n__01
+	Synset__non_standard_speech__n__01
+	Synset__discussion__n__02
+	Synset__visual_communication__n__01
+	Synset__video__n__01
+	Synset__display__n__05
+	Synset__presentation__n__03
+	Synset__production__n__02
+	Synset__signal__n__01
+	Synset__symbol__n__01
+	Synset__message__n__01
+	Synset__broadcast__n__01
+	Synset__indication__n__01
+	Synset__evidence__n__02
+	Synset__record__n__01
+	Synset__written_record__n__01
+	Synset__register__n__01
+	label -> mention [label=IsA]
+	Synset__entity__n__01 -> mention [label=IsA]
+	Synset__physical_entity__n__01 -> Synset__entity__n__01 [label=IsA]
+	Synset__object__n__01 -> Synset__physical_entity__n__01 [label=IsA]
+	Synset__whole__n__02 -> Synset__object__n__01 [label=IsA]
+	Synset__natural_object__n__01 -> Synset__whole__n__02 [label=IsA]
+	Synset__asterism__n__02 -> Synset__natural_object__n__01 [label=IsA]
+	label -> Synset__asterism__n__02 [label=IsA]
+	label -> Synset__natural_object__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__meteoroid__n__01 -> label [label=IsA]
+	label -> Synset__meteoroid__n__01 [label=IsA]
+	label -> Synset__meteoroid__n__01 [label=IsA]
+	Synset__meteoroid__n__01 -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__plant_part__n__01 -> Synset__natural_object__n__01 [label=IsA]
+	Synset__plant_organ__n__01 -> Synset__plant_part__n__01 [label=IsA]
+	Synset__reproductive_structure__n__01 -> Synset__plant_organ__n__01 [label=IsA]
+	Synset__fruit__n__01 -> Synset__reproductive_structure__n__01 [label=IsA]
+	Synset__edible_fruit__n__01 -> Synset__fruit__n__01 [label=IsA]
+	label -> Synset__edible_fruit__n__01 [label=IsA]
+	Synset__celestial_body__n__01 -> Synset__natural_object__n__01 [label=IsA]
+	Synset__minor_planet__n__01 -> Synset__celestial_body__n__01 [label=IsA]
+	label -> Synset__celestial_body__n__01 [label=IsA]
+	label -> Synset__celestial_body__n__01 [label=IsA]
+	Synset__celestial_body__n__01 -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__satellite__n__03 -> Synset__celestial_body__n__01 [label=IsA]
+	label -> Synset__satellite__n__03 [label=IsA]
+	Synset__body__n__04 -> Synset__natural_object__n__01 [label=IsA]
+	Synset__particle__n__02 -> Synset__body__n__04 [label=IsA]
+	label -> Synset__particle__n__02 [label=IsA]
+	label -> Synset__body__n__04 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> Synset__natural_object__n__01 [label=IsA]
+	Synset__natural_object__n__01 -> label [label=Relation]
+	Synset__universe__n__01 -> Synset__natural_object__n__01 [label=IsA]
+	Synset__living_thing__n__01 -> Synset__whole__n__02 [label=IsA]
+	label -> Synset__living_thing__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__achiever__n__01 -> label [label=IsA]
+	label -> Synset__achiever__n__01 [label=IsA]
+	label -> Synset__achiever__n__01 [label=IsA]
+	Synset__achiever__n__01 -> label [label=Relation]
+	Synset__contestant__n__01 -> label [label=IsA]
+	label -> Synset__contestant__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__climber__n__04 -> label [label=IsA]
+	label -> Synset__climber__n__04 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__player__n__01 -> Synset__contestant__n__01 [label=IsA]
+	label -> Synset__player__n__01 [label=IsA]
+	label -> Synset__player__n__01 [label=IsA]
+	Synset__player__n__01 -> label [label=Relation]
+	label -> Synset__player__n__01 [label=IsA]
+	Synset__player__n__01 -> label [label=Relation]
+	label -> Synset__contestant__n__01 [label=IsA]
+	Synset__contestant__n__01 -> label [label=Relation]
+	label -> Synset__contestant__n__01 [label=IsA]
+	Synset__contestant__n__01 -> label [label=Relation]
+	label -> Synset__contestant__n__01 [label=IsA]
+	Synset__contestant__n__01 -> label [label=Relation]
+	Synset__champion__n__01 -> label [label=IsA]
+	Synset__acquirer__n__01 -> label [label=IsA]
+	Synset__recipient__n__01 -> Synset__acquirer__n__01 [label=IsA]
+	Synset__honoree__n__01 -> Synset__recipient__n__01 [label=IsA]
+	label -> Synset__honoree__n__01 [label=IsA]
+	label -> Synset__recipient__n__01 [label=IsA]
+	label -> Synset__recipient__n__01 [label=IsA]
+	Synset__recipient__n__01 -> label [label=Relation]
+	Synset__addressee__n__01 -> Synset__recipient__n__01 [label=IsA]
+	label -> Synset__addressee__n__01 [label=IsA]
+	Synset__adult__n__01 -> label [label=IsA]
+	Synset__important_person__n__01 -> Synset__adult__n__01 [label=IsA]
+	label -> Synset__important_person__n__01 [label=IsA]
+	Synset__luminary__n__01 -> label [label=IsA]
+	label -> Synset__luminary__n__01 [label=IsA]
+	Synset__character__n__05 -> Synset__adult__n__01 [label=IsA]
+	label -> Synset__character__n__05 [label=IsA]
+	Synset__professional__n__01 -> Synset__adult__n__01 [label=IsA]
+	Synset__health_professional__n__01 -> Synset__professional__n__01 [label=IsA]
+	Synset__medical_practitioner__n__01 -> Synset__health_professional__n__01 [label=IsA]
+	label -> Synset__medical_practitioner__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__publisher__n__02 -> Synset__professional__n__01 [label=IsA]
+	label -> Synset__publisher__n__02 [label=IsA]
+	label -> Synset__publisher__n__02 [label=IsA]
+	Synset__publisher__n__02 -> label [label=Relation]
+	Synset__critic__n__01 -> Synset__professional__n__01 [label=IsA]
+	label -> Synset__critic__n__01 [label=IsA]
+	Synset__educator__n__01 -> Synset__professional__n__01 [label=IsA]
+	label -> Synset__educator__n__01 [label=IsA]
+	Synset__entertainer__n__01 -> label [label=IsA]
+	Synset__performer__n__01 -> Synset__entertainer__n__01 [label=IsA]
+	label -> Synset__performer__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__star__n__04 -> label [label=IsA]
+	Synset__television_star__n__01 -> Synset__star__n__04 [label=IsA]
+	Synset__musician__n__01 -> Synset__performer__n__01 [label=IsA]
+	Synset__singer__n__01 -> Synset__musician__n__01 [label=IsA]
+	label -> Synset__singer__n__01 [label=IsA]
+	label -> Synset__musician__n__01 [label=IsA]
+	Synset__percussionist__n__01 -> Synset__musician__n__01 [label=IsA]
+	label -> Synset__musician__n__01 [label=IsA]
+	Synset__musician__n__01 -> label [label=Relation]
+	label -> Synset__performer__n__01 [label=IsA]
+	Synset__performer__n__01 -> label [label=Relation]
+	Synset__communicator__n__01 -> label [label=IsA]
+	label -> Synset__communicator__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__scriptwriter__n__01 -> label [label=IsA]
+	Synset__screenwriter__n__01 -> Synset__scriptwriter__n__01 [label=IsA]
+	Synset__compiler__n__01 -> label [label=IsA]
+	label -> Synset__compiler__n__01 [label=IsA]
+	Synset__informant__n__01 -> Synset__communicator__n__01 [label=IsA]
+	label -> Synset__informant__n__01 [label=IsA]
+	Synset__negotiator__n__01 -> Synset__communicator__n__01 [label=IsA]
+	Synset__representative__n__01 -> Synset__negotiator__n__01 [label=IsA]
+	Synset__head_of_state__n__01 -> Synset__representative__n__01 [label=IsA]
+	label -> Synset__head_of_state__n__01 [label=IsA]
+	Synset__articulator__n__01 -> Synset__communicator__n__01 [label=IsA]
+	Synset__speaker__n__01 -> Synset__articulator__n__01 [label=IsA]
+	Synset__inquirer__n__01 -> Synset__speaker__n__01 [label=IsA]
+	label -> Synset__inquirer__n__01 [label=IsA]
+	label -> Synset__speaker__n__01 [label=IsA]
+	label -> Synset__communicator__n__01 [label=IsA]
+	Synset__communicator__n__01 -> label [label=Relation]
+	Synset__worker__n__01 -> label [label=IsA]
+	Synset__skilled_worker__n__01 -> Synset__worker__n__01 [label=IsA]
+	Synset__official__n__01 -> Synset__skilled_worker__n__01 [label=IsA]
+	Synset__judge__n__01 -> Synset__official__n__01 [label=IsA]
+	label -> Synset__judge__n__01 [label=IsA]
+	Synset__officeholder__n__01 -> Synset__official__n__01 [label=IsA]
+	label -> Synset__officeholder__n__01 [label=IsA]
+	label -> Synset__skilled_worker__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__cook__n__01 -> Synset__skilled_worker__n__01 [label=IsA]
+	label -> Synset__cook__n__01 [label=IsA]
+	Synset__serviceman__n__01 -> Synset__skilled_worker__n__01 [label=IsA]
+	label -> Synset__serviceman__n__01 [label=IsA]
+	Synset__sailor__n__01 -> Synset__skilled_worker__n__01 [label=IsA]
+	Synset__mariner__n__01 -> Synset__sailor__n__01 [label=IsA]
+	Synset__officer__n__04 -> Synset__mariner__n__01 [label=IsA]
+	label -> Synset__officer__n__04 [label=IsA]
+	Synset__painter__n__02 -> Synset__skilled_worker__n__01 [label=IsA]
+	Synset__letterer__n__01 -> Synset__painter__n__02 [label=IsA]
+	label -> Synset__letterer__n__01 [label=IsA]
+	Synset__adjudicator__n__01 -> label [label=IsA]
+	label -> Synset__adjudicator__n__01 [label=IsA]
+	Synset__referee__n__01 -> label [label=IsA]
+	label -> Synset__referee__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__creator__n__02 -> label [label=IsA]
+	label -> Synset__creator__n__02 [label=IsA]
+	label -> Synset__creator__n__02 [label=IsA]
+	Synset__creator__n__02 -> label [label=Relation]
+	Synset__musician__n__02 -> label [label=IsA]
+	label -> Synset__musician__n__02 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> Synset__musician__n__02 [label=IsA]
+	Synset__musician__n__02 -> label [label=Relation]
+	label -> Synset__musician__n__02 [label=IsA]
+	Synset__musician__n__02 -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__painter__n__01 -> label [label=IsA]
+	Synset__colorist__n__01 -> Synset__painter__n__01 [label=IsA]
+	label -> Synset__colorist__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__photographer__n__01 -> label [label=IsA]
+	label -> Synset__photographer__n__01 [label=IsA]
+	label -> Synset__creator__n__02 [label=IsA]
+	Synset__creator__n__02 -> label [label=Relation]
+	label -> Synset__creator__n__02 [label=IsA]
+	Synset__creator__n__02 -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> Synset__creator__n__02 [label=IsA]
+	Synset__creator__n__02 -> label [label=Relation]
+	Synset__maker__n__01 -> Synset__creator__n__02 [label=IsA]
+	Synset__manufacturer__n__02 -> Synset__maker__n__01 [label=IsA]
+	Synset__originator__n__01 -> Synset__creator__n__02 [label=IsA]
+	label -> Synset__originator__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__producer__n__02 -> Synset__creator__n__02 [label=IsA]
+	label -> Synset__producer__n__02 [label=IsA]
+	label -> Synset__producer__n__02 [label=IsA]
+	Synset__producer__n__02 -> label [label=Relation]
+	label -> Synset__creator__n__02 [label=IsA]
+	Synset__creator__n__02 -> label [label=Relation]
+	label -> Synset__creator__n__02 [label=IsA]
+	Synset__creator__n__02 -> label [label=Relation]
+	label -> Synset__creator__n__02 [label=IsA]
+	Synset__creator__n__02 -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> Synset__creator__n__02 [label=IsA]
+	Synset__creator__n__02 -> label [label=Relation]
+	label -> Synset__creator__n__02 [label=IsA]
+	Synset__creator__n__02 -> label [label=Relation]
+	Synset__choreographer__n__01 -> Synset__creator__n__02 [label=IsA]
+	label -> Synset__choreographer__n__01 [label=IsA]
+	label -> Synset__creator__n__02 [label=IsA]
+	Synset__creator__n__02 -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__couturier__n__01 -> Synset__creator__n__02 [label=IsA]
+	Synset__costumier__n__01 -> Synset__couturier__n__01 [label=IsA]
+	label -> Synset__costumier__n__01 [label=IsA]
+	label -> Synset__couturier__n__01 [label=IsA]
+	label -> Synset__creator__n__02 [label=IsA]
+	Synset__creator__n__02 -> label [label=Relation]
+	label -> Synset__creator__n__02 [label=IsA]
+	Synset__creator__n__02 -> label [label=Relation]
+	label -> Synset__creator__n__02 [label=IsA]
+	Synset__creator__n__02 -> label [label=Relation]
+	Synset__owner__n__02 -> label [label=IsA]
+	label -> Synset__owner__n__02 [label=IsA]
+	label -> Synset__owner__n__02 [label=IsA]
+	Synset__owner__n__02 -> label [label=Relation]
+	label -> Synset__owner__n__02 [label=IsA]
+	Synset__owner__n__02 -> label [label=Relation]
+	Synset__holder__n__02 -> Synset__owner__n__02 [label=IsA]
+	label -> Synset__owner__n__02 [label=IsA]
+	Synset__owner__n__02 -> label [label=Relation]
+	label -> Synset__owner__n__02 [label=IsA]
+	Synset__owner__n__02 -> label [label=Relation]
+	Synset__survivor__n__02 -> label [label=IsA]
+	label -> Synset__survivor__n__02 [label=IsA]
+	Synset__traveler__n__01 -> label [label=IsA]
+	Synset__rider__n__01 -> Synset__traveler__n__01 [label=IsA]
+	Synset__pedaler__n__01 -> Synset__rider__n__01 [label=IsA]
+	label -> Synset__traveler__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__programmer__n__01 -> label [label=IsA]
+	label -> Synset__programmer__n__01 [label=IsA]
+	label -> Synset__programmer__n__01 [label=IsA]
+	Synset__programmer__n__01 -> label [label=Relation]
+	label -> Synset__programmer__n__01 [label=IsA]
+	Synset__programmer__n__01 -> label [label=Relation]
+	label -> Synset__programmer__n__01 [label=IsA]
+	Synset__programmer__n__01 -> label [label=Relation]
+	label -> Synset__programmer__n__01 [label=IsA]
+	Synset__programmer__n__01 -> label [label=Relation]
+	label -> Synset__programmer__n__01 [label=IsA]
+	Synset__programmer__n__01 -> label [label=Relation]
+	Synset__computer_user__n__01 -> label [label=IsA]
+	label -> Synset__computer_user__n__01 [label=IsA]
+	Synset__amateur__n__01 -> label [label=IsA]
+	label -> Synset__amateur__n__01 [label=IsA]
+	Synset__combatant__n__01 -> label [label=IsA]
+	label -> Synset__combatant__n__01 [label=IsA]
+	label -> Synset__combatant__n__01 [label=IsA]
+	Synset__combatant__n__01 -> label [label=Relation]
+	label -> Synset__combatant__n__01 [label=IsA]
+	Synset__combatant__n__01 -> label [label=Relation]
+	Synset__follower__n__01 -> label [label=IsA]
+	label -> Synset__follower__n__01 [label=IsA]
+	Synset__advocate__n__01 -> label [label=IsA]
+	Synset__supporter__n__01 -> Synset__advocate__n__01 [label=IsA]
+	Synset__subscriber__n__01 -> Synset__supporter__n__01 [label=IsA]
+	label -> Synset__subscriber__n__01 [label=IsA]
+	Synset__leader__n__01 -> label [label=IsA]
+	Synset__commander__n__02 -> Synset__leader__n__01 [label=IsA]
+	label -> Synset__commander__n__02 [label=IsA]
+	Synset__superior__n__01 -> Synset__leader__n__01 [label=IsA]
+	Synset__supervisor__n__01 -> Synset__superior__n__01 [label=IsA]
+	label -> Synset__supervisor__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__stage_director__n__01 -> label [label=IsA]
+	Synset__art_director__n__01 -> Synset__stage_director__n__01 [label=IsA]
+	label -> Synset__art_director__n__01 [label=IsA]
+	label -> Synset__art_director__n__01 [label=IsA]
+	Synset__art_director__n__01 -> label [label=Relation]
+	label -> Synset__art_director__n__01 [label=IsA]
+	Synset__art_director__n__01 -> label [label=Relation]
+	label -> Synset__art_director__n__01 [label=IsA]
+	Synset__art_director__n__01 -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__trainer__n__01 -> Synset__leader__n__01 [label=IsA]
+	Synset__coach__n__01 -> Synset__trainer__n__01 [label=IsA]
+	label -> Synset__coach__n__01 [label=IsA]
+	label -> Synset__coach__n__01 [label=IsA]
+	Synset__coach__n__01 -> label [label=Relation]
+	label -> Synset__coach__n__01 [label=IsA]
+	Synset__coach__n__01 -> label [label=Relation]
+	label -> Synset__leader__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__head__n__04 -> Synset__leader__n__01 [label=IsA]
+	Synset__administrator__n__01 -> Synset__head__n__04 [label=IsA]
+	Synset__executive__n__01 -> Synset__administrator__n__01 [label=IsA]
+	Synset__vice_president__n__01 -> Synset__executive__n__01 [label=IsA]
+	Synset__aristocrat__n__01 -> Synset__leader__n__01 [label=IsA]
+	Synset__male_aristocrat__n__01 -> Synset__aristocrat__n__01 [label=IsA]
+	Synset__capitalist__n__02 -> label [label=IsA]
+	Synset__businessperson__n__01 -> Synset__capitalist__n__02 [label=IsA]
+	Synset__businessman__n__01 -> Synset__businessperson__n__01 [label=IsA]
+	Synset__operator__n__03 -> Synset__businessman__n__01 [label=IsA]
+	label -> Synset__operator__n__03 [label=IsA]
+	Synset__owner__n__01 -> Synset__businessman__n__01 [label=IsA]
+	label -> Synset__owner__n__01 [label=IsA]
+	label -> Synset__owner__n__01 [label=IsA]
+	Synset__owner__n__01 -> label [label=Relation]
+	Synset__supplier__n__01 -> Synset__businessperson__n__01 [label=IsA]
+	label -> Synset__supplier__n__01 [label=IsA]
+	Synset__distributor__n__01 -> Synset__supplier__n__01 [label=IsA]
+	label -> Synset__distributor__n__01 [label=IsA]
+	Synset__investor__n__01 -> Synset__capitalist__n__02 [label=IsA]
+	label -> Synset__investor__n__01 [label=IsA]
+	label -> Synset__investor__n__01 [label=IsA]
+	Synset__investor__n__01 -> label [label=Relation]
+	Synset__party__n__05 -> label [label=IsA]
+	label -> Synset__party__n__05 [label=IsA]
+	Synset__contractor__n__03 -> Synset__party__n__05 [label=IsA]
+	Synset__builder__n__03 -> Synset__contractor__n__03 [label=IsA]
+	Synset__contractor__n__01 -> Synset__builder__n__03 [label=IsA]
+	label -> Synset__contractor__n__01 [label=IsA]
+	label -> Synset__builder__n__03 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__inhabitant__n__01 -> label [label=IsA]
+	Synset__american__n__03 -> Synset__inhabitant__n__01 [label=IsA]
+	Synset__north_american__n__01 -> Synset__american__n__03 [label=IsA]
+	Synset__canadian__n__01 -> Synset__north_american__n__01 [label=IsA]
+	label -> Synset__canadian__n__01 [label=IsA]
+	Synset__resident__n__01 -> Synset__inhabitant__n__01 [label=IsA]
+	label -> Synset__resident__n__01 [label=IsA]
+	Synset__linguist__n__02 -> label [label=IsA]
+	label -> Synset__linguist__n__02 [label=IsA]
+	Synset__peer__n__01 -> label [label=IsA]
+	Synset__associate__n__01 -> Synset__peer__n__01 [label=IsA]
+	Synset__member__n__01 -> Synset__associate__n__01 [label=IsA]
+	label -> Synset__member__n__01 [label=IsA]
+	label -> Synset__member__n__01 [label=IsA]
+	Synset__member__n__01 -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> Synset__member__n__01 [label=IsA]
+	Synset__member__n__01 -> label [label=Relation]
+	Synset__inductee__n__01 -> Synset__member__n__01 [label=IsA]
+	label -> Synset__inductee__n__01 [label=IsA]
+	label -> Synset__member__n__01 [label=IsA]
+	Synset__member__n__01 -> label [label=Relation]
+	Synset__committee_member__n__01 -> Synset__member__n__01 [label=IsA]
+	Synset__director__n__02 -> Synset__committee_member__n__01 [label=IsA]
+	label -> Synset__director__n__02 [label=IsA]
+	Synset__participant__n__01 -> Synset__associate__n__01 [label=IsA]
+	label -> Synset__participant__n__01 [label=IsA]
+	Synset__good_person__n__01 -> label [label=IsA]
+	Synset__benefactor__n__01 -> Synset__good_person__n__01 [label=IsA]
+	Synset__patron__n__03 -> Synset__benefactor__n__01 [label=IsA]
+	label -> Synset__patron__n__03 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> Synset__patron__n__03 [label=IsA]
+	Synset__patron__n__03 -> label [label=Relation]
+	label -> Synset__patron__n__03 [label=IsA]
+	Synset__patron__n__03 -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__bad_person__n__01 -> label [label=IsA]
+	Synset__destroyer__n__02 -> Synset__bad_person__n__01 [label=IsA]
+	Synset__amerindian__n__01 -> label [label=IsA]
+	label -> Synset__amerindian__n__01 [label=IsA]
+	Synset__person_of_color__n__01 -> label [label=IsA]
+	Synset__relative__n__01 -> label [label=IsA]
+	label -> Synset__relative__n__01 [label=IsA]
+	Synset__unfortunate__n__01 -> label [label=IsA]
+	Synset__victim__n__01 -> Synset__unfortunate__n__01 [label=IsA]
+	label -> Synset__victim__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__scientist__n__01 -> label [label=IsA]
+	Synset__physicist__n__01 -> Synset__scientist__n__01 [label=IsA]
+	label -> Synset__physicist__n__01 [label=IsA]
+	Synset__authority__n__02 -> label [label=IsA]
+	Synset__adventurer__n__01 -> label [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__expert__n__01 -> label [label=IsA]
+	Synset__authority__n__03 -> Synset__expert__n__01 [label=IsA]
+	Synset__adviser__n__01 -> Synset__authority__n__03 [label=IsA]
+	label -> Synset__adviser__n__01 [label=IsA]
+	Synset__evaluator__n__01 -> Synset__authority__n__03 [label=IsA]
+	label -> Synset__evaluator__n__01 [label=IsA]
+	Synset__user__n__01 -> label [label=IsA]
+	Synset__consumer__n__01 -> Synset__user__n__01 [label=IsA]
+	label -> Synset__consumer__n__01 [label=IsA]
+	label -> Synset__user__n__01 [label=IsA]
+	Synset__religious_person__n__01 -> label [label=IsA]
+	label -> Synset__religious_person__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__intellectual__n__01 -> label [label=IsA]
+	Synset__theorist__n__01 -> Synset__intellectual__n__01 [label=IsA]
+	label -> Synset__theorist__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__preserver__n__03 -> label [label=IsA]
+	Synset__defender__n__01 -> Synset__preserver__n__03 [label=IsA]
+	Synset__custodian__n__01 -> Synset__defender__n__01 [label=IsA]
+	Synset__curator__n__01 -> Synset__custodian__n__01 [label=IsA]
+	label -> Synset__curator__n__01 [label=IsA]
+	Synset__ruler__n__01 -> label [label=IsA]
+	Synset__sovereign__n__01 -> Synset__ruler__n__01 [label=IsA]
+	label -> Synset__sovereign__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__lord__n__03 -> label [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__host__n__03 -> label [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__artifact__n__01 -> Synset__whole__n__02 [label=IsA]
+	Synset__instrumentality__n__03 -> Synset__artifact__n__01 [label=IsA]
+	Synset__device__n__01 -> Synset__instrumentality__n__03 [label=IsA]
+	Synset__machine__n__01 -> Synset__device__n__01 [label=IsA]
+	label -> Synset__machine__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__motor__n__01 -> Synset__machine__n__01 [label=IsA]
+	label -> Synset__motor__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__jet_engine__n__01 -> label [label=IsA]
+	label -> Synset__jet_engine__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__aircraft_engine__n__01 -> label [label=IsA]
+	label -> Synset__aircraft_engine__n__01 [label=IsA]
+	Synset__printer__n__03 -> Synset__machine__n__01 [label=IsA]
+	Synset__character_printer__n__01 -> Synset__printer__n__03 [label=IsA]
+	Synset__ticker__n__03 -> Synset__character_printer__n__01 [label=IsA]
+	label -> Synset__ticker__n__03 [label=IsA]
+	Synset__electrical_device__n__01 -> Synset__device__n__01 [label=IsA]
+	Synset__battery__n__02 -> Synset__electrical_device__n__01 [label=IsA]
+	label -> Synset__battery__n__02 [label=IsA]
+	label -> Synset__device__n__01 [label=IsA]
+	Synset__keyboard_instrument__n__01 -> label [label=IsA]
+	label -> Synset__keyboard_instrument__n__01 [label=IsA]
+	Synset__electronic_instrument__n__01 -> label [label=IsA]
+	Synset__stringed_instrument__n__01 -> label [label=IsA]
+	label -> Synset__stringed_instrument__n__01 [label=IsA]
+	Synset__mechanism__n__05 -> Synset__device__n__01 [label=IsA]
+	Synset__mechanical_device__n__01 -> Synset__mechanism__n__05 [label=IsA]
+	Synset__piston__n__02 -> Synset__mechanical_device__n__01 [label=IsA]
+	label -> Synset__mechanical_device__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__gear__n__03 -> Synset__mechanism__n__05 [label=IsA]
+	label -> Synset__gear__n__03 [label=IsA]
+	Synset__memory_device__n__01 -> Synset__device__n__01 [label=IsA]
+	Synset__recording__n__03 -> Synset__memory_device__n__01 [label=IsA]
+	Synset__sound_recording__n__01 -> Synset__recording__n__03 [label=IsA]
+	label -> Synset__sound_recording__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__instrument__n__01 -> Synset__device__n__01 [label=IsA]
+	Synset__scientific_instrument__n__01 -> Synset__instrument__n__01 [label=IsA]
+	Synset__magnifier__n__01 -> Synset__scientific_instrument__n__01 [label=IsA]
+	label -> Synset__magnifier__n__01 [label=IsA]
+	Synset__medium__n__01 -> Synset__instrumentality__n__03 [label=IsA]
+	Synset__print_media__n__01 -> Synset__medium__n__01 [label=IsA]
+	Synset__press__n__02 -> Synset__print_media__n__01 [label=IsA]
+	Synset__newspaper__n__01 -> Synset__press__n__02 [label=IsA]
+	label -> Synset__newspaper__n__01 [label=IsA]
+	label -> Synset__medium__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> Synset__medium__n__01 [label=IsA]
+	Synset__medium__n__01 -> label [label=Relation]
+	Synset__system__n__01 -> Synset__instrumentality__n__03 [label=IsA]
+	Synset__network__n__05 -> Synset__system__n__01 [label=IsA]
+	Synset__computer_network__n__01 -> Synset__network__n__05 [label=IsA]
+	Synset__world_wide_web__n__01 -> Synset__computer_network__n__01 [label=IsA]
+	label -> Synset__world_wide_web__n__01 [label=IsA]
+	Synset__computer_system__n__01 -> Synset__system__n__01 [label=IsA]
+	Synset__platform__n__03 -> Synset__computer_system__n__01 [label=IsA]
+	label -> Synset__platform__n__03 [label=IsA]
+	label -> Synset__platform__n__03 [label=IsA]
+	Synset__platform__n__03 -> label [label=Relation]
+	Synset__implement__n__01 -> Synset__instrumentality__n__03 [label=IsA]
+	Synset__utensil__n__01 -> Synset__implement__n__01 [label=IsA]
+	label -> Synset__utensil__n__01 [label=IsA]
+	Synset__equipment__n__01 -> Synset__instrumentality__n__03 [label=IsA]
+	Synset__photographic_equipment__n__01 -> Synset__equipment__n__01 [label=IsA]
+	Synset__camera__n__01 -> Synset__photographic_equipment__n__01 [label=IsA]
+	label -> Synset__camera__n__01 [label=IsA]
+	label -> Synset__camera__n__01 [label=IsA]
+	Synset__camera__n__01 -> label [label=Relation]
+	Synset__electronic_equipment__n__01 -> Synset__equipment__n__01 [label=IsA]
+	label -> Synset__electronic_equipment__n__01 [label=IsA]
+	label -> Synset__electronic_equipment__n__01 [label=IsA]
+	Synset__electronic_equipment__n__01 -> label [label=Relation]
+	label -> Synset__equipment__n__01 [label=IsA]
+	label -> Synset__equipment__n__01 [label=IsA]
+	Synset__equipment__n__01 -> label [label=Relation]
+	Synset__material__n__04 -> Synset__equipment__n__01 [label=IsA]
+	label -> Synset__material__n__04 [label=IsA]
+	Synset__conveyance__n__03 -> Synset__instrumentality__n__03 [label=IsA]
+	Synset__vehicle__n__01 -> Synset__conveyance__n__03 [label=IsA]
+	Synset__craft__n__02 -> Synset__vehicle__n__01 [label=IsA]
+	Synset__aircraft__n__01 -> Synset__craft__n__02 [label=IsA]
+	label -> Synset__aircraft__n__01 [label=IsA]
+	label -> Synset__aircraft__n__01 [label=IsA]
+	Synset__aircraft__n__01 -> label [label=Relation]
+	label -> Synset__craft__n__02 [label=IsA]
+	Synset__vessel__n__02 -> Synset__craft__n__02 [label=IsA]
+	label -> Synset__vessel__n__02 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> Synset__vehicle__n__01 [label=IsA]
+	label -> Synset__vehicle__n__01 [label=IsA]
+	Synset__vehicle__n__01 -> label [label=Relation]
+	Synset__ski_tow__n__01 -> Synset__conveyance__n__03 [label=IsA]
+	Synset__container__n__01 -> Synset__instrumentality__n__03 [label=IsA]
+	Synset__wheeled_vehicle__n__01 -> Synset__container__n__01 [label=IsA]
+	Synset__bicycle__n__01 -> Synset__wheeled_vehicle__n__01 [label=IsA]
+	Synset__self_propelled_vehicle__n__01 -> Synset__wheeled_vehicle__n__01 [label=IsA]
+	Synset__motor_vehicle__n__01 -> Synset__self_propelled_vehicle__n__01 [label=IsA]
+	Synset__car__n__01 -> Synset__motor_vehicle__n__01 [label=IsA]
+	label -> Synset__car__n__01 [label=IsA]
+	label -> Synset__self_propelled_vehicle__n__01 [label=IsA]
+	Synset__electric_locomotive__n__01 -> label [label=IsA]
+	label -> Synset__electric_locomotive__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__steam_locomotive__n__01 -> label [label=IsA]
+	Synset__diesel_locomotive__n__01 -> label [label=IsA]
+	label -> Synset__diesel_locomotive__n__01 [label=IsA]
+	Synset__facility__n__01 -> Synset__artifact__n__01 [label=IsA]
+	Synset__military_installation__n__01 -> Synset__facility__n__01 [label=IsA]
+	Synset__communication_system__n__02 -> Synset__facility__n__01 [label=IsA]
+	Synset__network__n__02 -> Synset__communication_system__n__02 [label=IsA]
+	label -> Synset__network__n__02 [label=IsA]
+	Synset__airfield__n__01 -> Synset__facility__n__01 [label=IsA]
+	Synset__course__n__09 -> Synset__facility__n__01 [label=IsA]
+	Synset__depository__n__01 -> Synset__facility__n__01 [label=IsA]
+	Synset__station__n__01 -> Synset__facility__n__01 [label=IsA]
+	Synset__terminal__n__01 -> Synset__station__n__01 [label=IsA]
+	label -> Synset__terminal__n__01 [label=IsA]
+	label -> Synset__station__n__01 [label=IsA]
+	Synset__broadcasting_station__n__01 -> Synset__station__n__01 [label=IsA]
+	label -> Synset__broadcasting_station__n__01 [label=IsA]
+	label -> Synset__broadcasting_station__n__01 [label=IsA]
+	Synset__broadcasting_station__n__01 -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> Synset__facility__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> Synset__facility__n__01 [label=IsA]
+	Synset__facility__n__01 -> label [label=Relation]
+	Synset__creation__n__02 -> Synset__artifact__n__01 [label=IsA]
+	Synset__product__n__02 -> Synset__creation__n__02 [label=IsA]
+	Synset__work__n__02 -> Synset__product__n__02 [label=IsA]
+	Synset__publication__n__01 -> Synset__work__n__02 [label=IsA]
+	label -> Synset__publication__n__01 [label=IsA]
+	Synset__comic_book__n__01 -> label [label=IsA]
+	label -> Synset__comic_book__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> Synset__publication__n__01 [label=IsA]
+	Synset__publication__n__01 -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__issue__n__02 -> label [label=IsA]
+	label -> Synset__issue__n__02 [label=IsA]
+	label -> Synset__issue__n__02 [label=IsA]
+	Synset__issue__n__02 -> label [label=Relation]
+	label -> Synset__issue__n__02 [label=IsA]
+	Synset__issue__n__02 -> label [label=Relation]
+	Synset__series__n__03 -> label [label=IsA]
+	label -> Synset__series__n__03 [label=IsA]
+	Synset__collection__n__02 -> Synset__publication__n__01 [label=IsA]
+	Synset__compilation__n__01 -> Synset__collection__n__02 [label=IsA]
+	label -> Synset__publication__n__01 [label=IsA]
+	Synset__publication__n__01 -> label [label=Relation]
+	label -> Synset__work__n__02 [label=IsA]
+	label -> Synset__work__n__02 [label=IsA]
+	Synset__work__n__02 -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__reference_book__n__01 -> label [label=IsA]
+	Synset__handbook__n__01 -> Synset__reference_book__n__01 [label=IsA]
+	label -> Synset__handbook__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> Synset__work__n__02 [label=IsA]
+	Synset__work__n__02 -> label [label=Relation]
+	label -> Synset__work__n__02 [label=IsA]
+	Synset__work__n__02 -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> Synset__work__n__02 [label=IsA]
+	Synset__work__n__02 -> label [label=Relation]
+	label -> Synset__work__n__02 [label=IsA]
+	Synset__work__n__02 -> label [label=Relation]
+	label -> Synset__work__n__02 [label=IsA]
+	Synset__work__n__02 -> label [label=Relation]
+	label -> Synset__work__n__02 [label=IsA]
+	Synset__work__n__02 -> label [label=Relation]
+	label -> Synset__work__n__02 [label=IsA]
+	Synset__work__n__02 -> label [label=Relation]
+	label -> Synset__work__n__02 [label=IsA]
+	Synset__work__n__02 -> label [label=Relation]
+	label -> Synset__product__n__02 [label=IsA]
+	Synset__piece__n__06 -> Synset__creation__n__02 [label=IsA]
+	Synset__article__n__01 -> Synset__piece__n__06 [label=IsA]
+	Synset__art__n__01 -> Synset__creation__n__02 [label=IsA]
+	Synset__genre__n__04 -> Synset__art__n__01 [label=IsA]
+	label -> Synset__genre__n__04 [label=IsA]
+	label -> Synset__genre__n__04 [label=IsA]
+	Synset__genre__n__04 -> label [label=Relation]
+	Synset__landscape__n__03 -> Synset__genre__n__04 [label=IsA]
+	label -> Synset__landscape__n__03 [label=IsA]
+	label -> Synset__art__n__01 [label=IsA]
+	Synset__invention__n__02 -> Synset__creation__n__02 [label=IsA]
+	label -> Synset__invention__n__02 [label=IsA]
+	Synset__commodity__n__01 -> Synset__artifact__n__01 [label=IsA]
+	Synset__merchandise__n__01 -> Synset__commodity__n__01 [label=IsA]
+	label -> Synset__merchandise__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__release__n__01 -> Synset__merchandise__n__01 [label=IsA]
+	label -> Synset__release__n__01 [label=IsA]
+	label -> Synset__merchandise__n__01 [label=IsA]
+	Synset__merchandise__n__01 -> label [label=Relation]
+	label -> Synset__merchandise__n__01 [label=IsA]
+	Synset__merchandise__n__01 -> label [label=Relation]
+	label -> Synset__merchandise__n__01 [label=IsA]
+	Synset__merchandise__n__01 -> label [label=Relation]
+	Synset__consumer_goods__n__01 -> Synset__commodity__n__01 [label=IsA]
+	Synset__clothing__n__01 -> Synset__consumer_goods__n__01 [label=IsA]
+	label -> Synset__clothing__n__01 [label=IsA]
+	Synset__decoration__n__01 -> Synset__artifact__n__01 [label=IsA]
+	Synset__design__n__04 -> Synset__decoration__n__01 [label=IsA]
+	label -> Synset__design__n__04 [label=IsA]
+	Synset__emblem__n__01 -> Synset__design__n__04 [label=IsA]
+	label -> Synset__emblem__n__01 [label=IsA]
+	Synset__heraldry__n__02 -> Synset__emblem__n__01 [label=IsA]
+	label -> Synset__heraldry__n__02 [label=IsA]
+	Synset__covering__n__02 -> Synset__artifact__n__01 [label=IsA]
+	Synset__protective_covering__n__01 -> Synset__covering__n__02 [label=IsA]
+	label -> Synset__protective_covering__n__01 [label=IsA]
+	Synset__surface__n__01 -> Synset__artifact__n__01 [label=IsA]
+	Synset__horizontal_surface__n__01 -> Synset__surface__n__01 [label=IsA]
+	Synset__platform__n__01 -> Synset__horizontal_surface__n__01 [label=IsA]
+	Synset__stage__n__03 -> Synset__platform__n__01 [label=IsA]
+	Synset__mise_en_scene__n__01 -> Synset__stage__n__03 [label=IsA]
+	label -> Synset__mise_en_scene__n__01 [label=IsA]
+	label -> Synset__mise_en_scene__n__01 [label=IsA]
+	Synset__mise_en_scene__n__01 -> label [label=Relation]
+	Synset__way__n__06 -> Synset__artifact__n__01 [label=IsA]
+	label -> Synset__way__n__06 [label=IsA]
+	Synset__track__n__10 -> label [label=IsA]
+	Synset__trail__n__02 -> Synset__track__n__10 [label=IsA]
+	label -> Synset__trail__n__02 [label=IsA]
+	label -> Synset__artifact__n__01 [label=IsA]
+	label -> Synset__object__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__area__n__01 -> label [label=IsA]
+	label -> Synset__area__n__01 [label=IsA]
+	Synset__scene__n__01 -> Synset__area__n__01 [label=IsA]
+	label -> Synset__area__n__01 [label=IsA]
+	Synset__area__n__01 -> label [label=Relation]
+	label -> Synset__area__n__01 [label=IsA]
+	Synset__area__n__01 -> label [label=Relation]
+	label -> Synset__area__n__01 [label=IsA]
+	Synset__area__n__01 -> label [label=Relation]
+	label -> Synset__area__n__01 [label=IsA]
+	Synset__area__n__01 -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__district__n__01 -> label [label=IsA]
+	Synset__administrative_district__n__01 -> Synset__district__n__01 [label=IsA]
+	label -> Synset__administrative_district__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__state__n__01 -> Synset__administrative_district__n__01 [label=IsA]
+	Synset__municipality__n__01 -> Synset__administrative_district__n__01 [label=IsA]
+	Synset__city__n__01 -> Synset__municipality__n__01 [label=IsA]
+	label -> Synset__city__n__01 [label=IsA]
+	Synset__town__n__01 -> Synset__municipality__n__01 [label=IsA]
+	label -> Synset__administrative_district__n__01 [label=IsA]
+	Synset__administrative_district__n__01 -> label [label=Relation]
+	label -> Synset__administrative_district__n__01 [label=IsA]
+	Synset__administrative_district__n__01 -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> Synset__administrative_district__n__01 [label=IsA]
+	Synset__administrative_district__n__01 -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__kingdom__n__02 -> label [label=IsA]
+	Synset__reservation__n__01 -> Synset__administrative_district__n__01 [label=IsA]
+	Synset__indian_reservation__n__01 -> Synset__reservation__n__01 [label=IsA]
+	label -> Synset__administrative_district__n__01 [label=IsA]
+	Synset__administrative_district__n__01 -> label [label=Relation]
+	Synset__ward__n__02 -> Synset__administrative_district__n__01 [label=IsA]
+	label -> Synset__administrative_district__n__01 [label=IsA]
+	Synset__administrative_district__n__01 -> label [label=Relation]
+	label -> Synset__district__n__01 [label=IsA]
+	Synset__jurisdiction__n__02 -> Synset__district__n__01 [label=IsA]
+	label -> Synset__jurisdiction__n__02 [label=IsA]
+	label -> Synset__jurisdiction__n__02 [label=IsA]
+	Synset__jurisdiction__n__02 -> label [label=Relation]
+	Synset__parish__n__02 -> Synset__jurisdiction__n__02 [label=IsA]
+	Synset__residential_district__n__01 -> Synset__district__n__01 [label=IsA]
+	Synset__suburb__n__01 -> Synset__residential_district__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__geographical_area__n__01 -> label [label=IsA]
+	Synset__tract__n__01 -> Synset__geographical_area__n__01 [label=IsA]
+	Synset__site__n__01 -> Synset__tract__n__01 [label=IsA]
+	label -> Synset__site__n__01 [label=IsA]
+	label -> Synset__site__n__01 [label=IsA]
+	Synset__site__n__01 -> label [label=Relation]
+	label -> Synset__site__n__01 [label=IsA]
+	Synset__site__n__01 -> label [label=Relation]
+	label -> Synset__site__n__01 [label=IsA]
+	Synset__site__n__01 -> label [label=Relation]
+	label -> Synset__tract__n__01 [label=IsA]
+	Synset__park__n__01 -> Synset__tract__n__01 [label=IsA]
+	label -> Synset__park__n__01 [label=IsA]
+	Synset__park__n__02 -> Synset__tract__n__01 [label=IsA]
+	label -> Synset__park__n__02 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__urban_area__n__01 -> Synset__geographical_area__n__01 [label=IsA]
+	Synset__field__n__14 -> Synset__geographical_area__n__01 [label=IsA]
+	label -> Synset__field__n__14 [label=IsA]
+	Synset__place__n__02 -> Synset__geographical_area__n__01 [label=IsA]
+	label -> Synset__place__n__02 [label=IsA]
+	label -> Synset__place__n__02 [label=IsA]
+	Synset__place__n__02 -> label [label=Relation]
+	Synset__zone__n__02 -> Synset__geographical_area__n__01 [label=IsA]
+	label -> Synset__zone__n__02 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__point__n__02 -> label [label=IsA]
+	Synset__geographic_point__n__01 -> Synset__point__n__02 [label=IsA]
+	Synset__workplace__n__01 -> Synset__geographic_point__n__01 [label=IsA]
+	Synset__exchange__n__06 -> Synset__workplace__n__01 [label=IsA]
+	label -> Synset__exchange__n__06 [label=IsA]
+	Synset__farm__n__01 -> Synset__workplace__n__01 [label=IsA]
+	label -> Synset__farm__n__01 [label=IsA]
+	label -> Synset__workplace__n__01 [label=IsA]
+	Synset__address__n__02 -> Synset__geographic_point__n__01 [label=IsA]
+	Synset__residence__n__01 -> Synset__address__n__02 [label=IsA]
+	label -> Synset__residence__n__01 [label=IsA]
+	label -> Synset__address__n__02 [label=IsA]
+	Synset__beginning__n__04 -> Synset__point__n__02 [label=IsA]
+	Synset__position__n__01 -> Synset__point__n__02 [label=IsA]
+	Synset__site__n__02 -> Synset__position__n__01 [label=IsA]
+	label -> Synset__site__n__02 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__barroom__n__01 -> label [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__natural_elevation__n__01 -> label [label=IsA]
+	Synset__ice_mass__n__01 -> label [label=IsA]
+	Synset__range__n__04 -> label [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__region__n__01 -> label [label=IsA]
+	label -> Synset__region__n__01 [label=IsA]
+	label -> Synset__region__n__01 [label=IsA]
+	Synset__region__n__01 -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__county__n__01 -> Synset__region__n__01 [label=IsA]
+	Synset__extremity__n__04 -> Synset__region__n__01 [label=IsA]
+	Synset__end__n__01 -> Synset__extremity__n__04 [label=IsA]
+	label -> Synset__end__n__01 [label=IsA]
+	Synset__pass__n__04 -> label [label=IsA]
+	label -> Synset__pass__n__04 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__remains__n__01 -> Synset__object__n__01 [label=IsA]
+	Synset__fossil__n__02 -> Synset__remains__n__01 [label=IsA]
+	label -> Synset__fossil__n__02 [label=IsA]
+	label -> Synset__object__n__01 [label=IsA]
+	Synset__object__n__01 -> label [label=Relation]
+	Synset__part__n__02 -> Synset__object__n__01 [label=IsA]
+	Synset__component__n__03 -> Synset__part__n__02 [label=IsA]
+	Synset__ingredient__n__01 -> Synset__component__n__03 [label=IsA]
+	label -> Synset__ingredient__n__01 [label=IsA]
+	Synset__hardware__n__03 -> Synset__component__n__03 [label=IsA]
+	label -> Synset__hardware__n__03 [label=IsA]
+	Synset__land__n__04 -> Synset__object__n__01 [label=IsA]
+	label -> Synset__land__n__04 [label=IsA]
+	label -> Synset__object__n__01 [label=IsA]
+	Synset__object__n__01 -> label [label=Relation]
+	Synset__curio__n__01 -> Synset__object__n__01 [label=IsA]
+	Synset__causal_agent__n__01 -> Synset__physical_entity__n__01 [label=IsA]
+	Synset__agent__n__03 -> Synset__causal_agent__n__01 [label=IsA]
+	label -> Synset__agent__n__03 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__drug_of_abuse__n__01 -> label [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__medicine__n__02 -> label [label=IsA]
+	Synset__dose__n__01 -> Synset__medicine__n__02 [label=IsA]
+	label -> Synset__dose__n__01 [label=IsA]
+	Synset__tincture__n__04 -> Synset__medicine__n__02 [label=IsA]
+	label -> Synset__tincture__n__04 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> Synset__causal_agent__n__01 [label=IsA]
+	Synset__operator__n__02 -> Synset__causal_agent__n__01 [label=IsA]
+	label -> Synset__operator__n__02 [label=IsA]
+	Synset__power__n__05 -> Synset__causal_agent__n__01 [label=IsA]
+	Synset__influence__n__05 -> Synset__power__n__05 [label=IsA]
+	label -> Synset__causal_agent__n__01 [label=IsA]
+	Synset__causal_agent__n__01 -> label [label=Relation]
+	label -> Synset__causal_agent__n__01 [label=IsA]
+	Synset__causal_agent__n__01 -> label [label=Relation]
+	Synset__matter__n__03 -> Synset__physical_entity__n__01 [label=IsA]
+	Synset__substance__n__01 -> Synset__matter__n__03 [label=IsA]
+	label -> Synset__substance__n__01 [label=IsA]
+	Synset__chemical__n__01 -> label [label=IsA]
+	label -> Synset__chemical__n__01 [label=IsA]
+	label -> Synset__chemical__n__01 [label=IsA]
+	Synset__chemical__n__01 -> label [label=Relation]
+	Synset__organic_compound__n__01 -> label [label=IsA]
+	Synset__macromolecule__n__01 -> Synset__organic_compound__n__01 [label=IsA]
+	label -> Synset__macromolecule__n__01 [label=IsA]
+	Synset__formulation__n__01 -> label [label=IsA]
+	label -> Synset__formulation__n__01 [label=IsA]
+	Synset__explosive__n__01 -> Synset__chemical__n__01 [label=IsA]
+	Synset__charge__n__15 -> Synset__explosive__n__01 [label=IsA]
+	label -> Synset__charge__n__15 [label=IsA]
+	label -> Synset__chemical__n__01 [label=IsA]
+	Synset__chemical__n__01 -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__body_substance__n__01 -> Synset__substance__n__01 [label=IsA]
+	Synset__liquid_body_substance__n__01 -> Synset__body_substance__n__01 [label=IsA]
+	Synset__secretion__n__02 -> Synset__liquid_body_substance__n__01 [label=IsA]
+	label -> Synset__secretion__n__02 [label=IsA]
+	Synset__fluid__n__01 -> Synset__substance__n__01 [label=IsA]
+	Synset__liquid__n__01 -> Synset__fluid__n__01 [label=IsA]
+	label -> Synset__liquid__n__01 [label=IsA]
+	Synset__alcohol__n__01 -> label [label=IsA]
+	label -> Synset__alcohol__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> Synset__alcohol__n__01 [label=IsA]
+	Synset__alcohol__n__01 -> label [label=Relation]
+	Synset__brew__n__01 -> Synset__alcohol__n__01 [label=IsA]
+	label -> Synset__brew__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> Synset__alcohol__n__01 [label=IsA]
+	Synset__alcohol__n__01 -> label [label=Relation]
+	Synset__drinking_water__n__01 -> label [label=IsA]
+	label -> Synset__drinking_water__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__atom__n__01 -> Synset__substance__n__01 [label=IsA]
+	label -> Synset__atom__n__01 [label=IsA]
+	label -> Synset__substance__n__01 [label=IsA]
+	Synset__substance__n__01 -> label [label=Relation]
+	Synset__substance__n__07 -> Synset__matter__n__03 [label=IsA]
+	label -> Synset__substance__n__07 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__nutriment__n__01 -> label [label=IsA]
+	Synset__dainty__n__01 -> Synset__nutriment__n__01 [label=IsA]
+	Synset__sweet__n__03 -> Synset__dainty__n__01 [label=IsA]
+	Synset__candy__n__01 -> Synset__sweet__n__03 [label=IsA]
+	label -> Synset__candy__n__01 [label=IsA]
+	label -> Synset__nutriment__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__foodstuff__n__02 -> label [label=IsA]
+	Synset__dairy_product__n__01 -> Synset__foodstuff__n__02 [label=IsA]
+	label -> Synset__dairy_product__n__01 [label=IsA]
+	label -> Synset__foodstuff__n__02 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__nutrient__n__02 -> Synset__substance__n__07 [label=IsA]
+	Synset__water__n__06 -> Synset__nutrient__n__02 [label=IsA]
+	Synset__propellant__n__01 -> Synset__substance__n__07 [label=IsA]
+	Synset__solid__n__01 -> Synset__matter__n__03 [label=IsA]
+	Synset__food__n__02 -> Synset__solid__n__01 [label=IsA]
+	Synset__produce__n__01 -> Synset__food__n__02 [label=IsA]
+	Synset__thing__n__12 -> Synset__physical_entity__n__01 [label=IsA]
+	label -> Synset__thing__n__12 [label=IsA]
+	Synset__stream__n__01 -> label [label=IsA]
+	Synset__part__n__03 -> Synset__thing__n__12 [label=IsA]
+	Synset__body_part__n__01 -> Synset__part__n__03 [label=IsA]
+	Synset__tissue__n__01 -> Synset__body_part__n__01 [label=IsA]
+	Synset__animal_tissue__n__01 -> Synset__tissue__n__01 [label=IsA]
+	label -> Synset__animal_tissue__n__01 [label=IsA]
+	Synset__nervous_tissue__n__01 -> Synset__animal_tissue__n__01 [label=IsA]
+	Synset__fiber_bundle__n__01 -> Synset__nervous_tissue__n__01 [label=IsA]
+	label -> Synset__fiber_bundle__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__connective_tissue__n__01 -> Synset__animal_tissue__n__01 [label=IsA]
+	label -> Synset__body_part__n__01 [label=IsA]
+	Synset__tube__n__04 -> label [label=IsA]
+	Synset__vessel__n__01 -> Synset__tube__n__04 [label=IsA]
+	Synset__blood_vessel__n__01 -> Synset__vessel__n__01 [label=IsA]
+	label -> Synset__blood_vessel__n__01 [label=IsA]
+	label -> Synset__blood_vessel__n__01 [label=IsA]
+	Synset__blood_vessel__n__01 -> label [label=Relation]
+	Synset__neural_structure__n__01 -> label [label=IsA]
+	label -> Synset__neural_structure__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> Synset__thing__n__12 [label=IsA]
+	Synset__thing__n__12 -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__unit__n__05 -> Synset__thing__n__12 [label=IsA]
+	Synset__molecule__n__01 -> Synset__unit__n__05 [label=IsA]
+	Synset__process__n__06 -> Synset__physical_entity__n__01 [label=IsA]
+	Synset__phenomenon__n__01 -> Synset__process__n__06 [label=IsA]
+	Synset__natural_phenomenon__n__01 -> Synset__phenomenon__n__01 [label=IsA]
+	Synset__physical_phenomenon__n__01 -> Synset__natural_phenomenon__n__01 [label=IsA]
+	Synset__cloud__n__01 -> Synset__physical_phenomenon__n__01 [label=IsA]
+	label -> Synset__cloud__n__01 [label=IsA]
+	Synset__atmospheric_phenomenon__n__01 -> Synset__physical_phenomenon__n__01 [label=IsA]
+	Synset__weather__n__01 -> Synset__atmospheric_phenomenon__n__01 [label=IsA]
+	Synset__atmosphere__n__04 -> Synset__weather__n__01 [label=IsA]
+	Synset__cyclone__n__01 -> Synset__atmosphere__n__04 [label=IsA]
+	label -> Synset__cyclone__n__01 [label=IsA]
+	label -> Synset__atmospheric_phenomenon__n__01 [label=IsA]
+	label -> Synset__atmospheric_phenomenon__n__01 [label=IsA]
+	Synset__atmospheric_phenomenon__n__01 -> label [label=Relation]
+	Synset__storm__n__01 -> Synset__atmospheric_phenomenon__n__01 [label=IsA]
+	Synset__windstorm__n__01 -> Synset__storm__n__01 [label=IsA]
+	Synset__cyclone__n__02 -> Synset__windstorm__n__01 [label=IsA]
+	label -> Synset__cyclone__n__02 [label=IsA]
+	label -> Synset__physical_phenomenon__n__01 [label=IsA]
+	Synset__natural_process__n__01 -> Synset__process__n__06 [label=IsA]
+	Synset__chemical_process__n__01 -> Synset__natural_process__n__01 [label=IsA]
+	Synset__mechanism__n__01 -> Synset__chemical_process__n__01 [label=IsA]
+	label -> Synset__mechanism__n__01 [label=IsA]
+	Synset__processing__n__01 -> Synset__process__n__06 [label=IsA]
+	Synset__data_processing__n__01 -> Synset__processing__n__01 [label=IsA]
+	Synset__operation__n__04 -> Synset__data_processing__n__01 [label=IsA]
+	Synset__computer_operation__n__01 -> Synset__operation__n__04 [label=IsA]
+	Synset__storage__n__04 -> Synset__computer_operation__n__01 [label=IsA]
+	label -> Synset__storage__n__04 [label=IsA]
+	Synset__substance__n__04 -> Synset__physical_entity__n__01 [label=IsA]
+	label -> Synset__substance__n__04 [label=IsA]
+	Synset__abstraction__n__06 -> Synset__entity__n__01 [label=IsA]
+	Synset__attribute__n__02 -> Synset__abstraction__n__06 [label=IsA]
+	Synset__state__n__02 -> Synset__attribute__n__02 [label=IsA]
+	Synset__status__n__01 -> Synset__state__n__02 [label=IsA]
+	Synset__standing__n__01 -> Synset__status__n__01 [label=IsA]
+	Synset__rating__n__03 -> Synset__standing__n__01 [label=IsA]
+	label -> Synset__rating__n__03 [label=IsA]
+	label -> Synset__rating__n__03 [label=IsA]
+	Synset__rating__n__03 -> label [label=Relation]
+	label -> Synset__standing__n__01 [label=IsA]
+	label -> Synset__status__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__legal_status__n__01 -> Synset__status__n__01 [label=IsA]
+	label -> Synset__legal_status__n__01 [label=IsA]
+	Synset__relationship__n__03 -> Synset__state__n__02 [label=IsA]
+	label -> Synset__relationship__n__03 [label=IsA]
+	Synset__membership__n__02 -> Synset__relationship__n__03 [label=IsA]
+	label -> Synset__membership__n__02 [label=IsA]
+	label -> Synset__relationship__n__03 [label=IsA]
+	Synset__relationship__n__03 -> label [label=Relation]
+	label -> Synset__relationship__n__03 [label=IsA]
+	Synset__relationship__n__03 -> label [label=Relation]
+	Synset__condition__n__01 -> Synset__state__n__02 [label=IsA]
+	Synset__physical_condition__n__01 -> Synset__condition__n__01 [label=IsA]
+	Synset__pathological_state__n__01 -> Synset__physical_condition__n__01 [label=IsA]
+	Synset__ill_health__n__01 -> Synset__pathological_state__n__01 [label=IsA]
+	Synset__illness__n__01 -> Synset__ill_health__n__01 [label=IsA]
+	label -> Synset__illness__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__communicable_disease__n__01 -> label [label=IsA]
+	label -> Synset__communicable_disease__n__01 [label=IsA]
+	Synset__condition__n__06 -> Synset__illness__n__01 [label=IsA]
+	label -> Synset__condition__n__06 [label=IsA]
+	Synset__circumstance__n__01 -> Synset__condition__n__01 [label=IsA]
+	Synset__playing_field__n__01 -> Synset__circumstance__n__01 [label=IsA]
+	Synset__psychological_state__n__01 -> Synset__condition__n__01 [label=IsA]
+	Synset__cognitive_state__n__01 -> Synset__psychological_state__n__01 [label=IsA]
+	Synset__curiosity__n__01 -> Synset__cognitive_state__n__01 [label=IsA]
+	label -> Synset__curiosity__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> Synset__condition__n__01 [label=IsA]
+	Synset__situation__n__01 -> Synset__state__n__02 [label=IsA]
+	Synset__environment__n__01 -> Synset__situation__n__01 [label=IsA]
+	Synset__sphere__n__01 -> Synset__environment__n__01 [label=IsA]
+	Synset__province__n__02 -> Synset__sphere__n__01 [label=IsA]
+	Synset__condition__n__03 -> Synset__state__n__02 [label=IsA]
+	Synset__fortune__n__04 -> Synset__condition__n__03 [label=IsA]
+	Synset__misfortune__n__02 -> Synset__fortune__n__04 [label=IsA]
+	Synset__adversity__n__01 -> Synset__misfortune__n__02 [label=IsA]
+	Synset__catastrophe__n__02 -> Synset__adversity__n__01 [label=IsA]
+	Synset__time__n__05 -> Synset__attribute__n__02 [label=IsA]
+	Synset__geological_time__n__01 -> Synset__time__n__05 [label=IsA]
+	label -> Synset__geological_time__n__01 [label=IsA]
+	Synset__quality__n__01 -> Synset__attribute__n__02 [label=IsA]
+	label -> Synset__quality__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__characteristic__n__02 -> Synset__quality__n__01 [label=IsA]
+	label -> Synset__characteristic__n__02 [label=IsA]
+	label -> Synset__quality__n__01 [label=IsA]
+	Synset__quality__n__01 -> label [label=Relation]
+	Synset__appearance__n__01 -> Synset__quality__n__01 [label=IsA]
+	Synset__color__n__08 -> Synset__appearance__n__01 [label=IsA]
+	label -> Synset__color__n__08 [label=IsA]
+	Synset__utility__n__02 -> Synset__quality__n__01 [label=IsA]
+	Synset__function__n__02 -> Synset__utility__n__02 [label=IsA]
+	label -> Synset__function__n__02 [label=IsA]
+	Synset__suitability__n__01 -> Synset__quality__n__01 [label=IsA]
+	Synset__fitness__n__01 -> Synset__suitability__n__01 [label=IsA]
+	Synset__qualification__n__01 -> Synset__fitness__n__01 [label=IsA]
+	label -> Synset__qualification__n__01 [label=IsA]
+	Synset__property__n__02 -> Synset__attribute__n__02 [label=IsA]
+	Synset__magnitude__n__01 -> Synset__property__n__02 [label=IsA]
+	Synset__size__n__01 -> Synset__magnitude__n__01 [label=IsA]
+	label -> Synset__size__n__01 [label=IsA]
+	Synset__extent__n__02 -> Synset__magnitude__n__01 [label=IsA]
+	Synset__scope__n__01 -> Synset__extent__n__02 [label=IsA]
+	Synset__visual_property__n__01 -> Synset__property__n__02 [label=IsA]
+	label -> Synset__visual_property__n__01 [label=IsA]
+	Synset__physical_property__n__01 -> Synset__property__n__02 [label=IsA]
+	label -> Synset__physical_property__n__01 [label=IsA]
+	Synset__psychological_feature__n__01 -> Synset__abstraction__n__06 [label=IsA]
+	Synset__event__n__01 -> Synset__psychological_feature__n__01 [label=IsA]
+	Synset__act__n__02 -> Synset__event__n__01 [label=IsA]
+	Synset__activity__n__01 -> Synset__act__n__02 [label=IsA]
+	label -> Synset__activity__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__role__n__04 -> Synset__activity__n__01 [label=IsA]
+	label -> Synset__role__n__04 [label=IsA]
+	Synset__position__n__09 -> Synset__role__n__04 [label=IsA]
+	label -> Synset__position__n__09 [label=IsA]
+	label -> Synset__role__n__04 [label=IsA]
+	Synset__role__n__04 -> label [label=Relation]
+	label -> Synset__role__n__04 [label=IsA]
+	Synset__role__n__04 -> label [label=Relation]
+	label -> Synset__role__n__04 [label=IsA]
+	Synset__role__n__04 -> label [label=Relation]
+	Synset__attempt__n__01 -> Synset__activity__n__01 [label=IsA]
+	Synset__test__n__05 -> Synset__attempt__n__01 [label=IsA]
+	Synset__assay__n__04 -> Synset__test__n__05 [label=IsA]
+	label -> Synset__assay__n__04 [label=IsA]
+	label -> Synset__test__n__05 [label=IsA]
+	Synset__work__n__01 -> Synset__activity__n__01 [label=IsA]
+	Synset__service__n__01 -> Synset__work__n__01 [label=IsA]
+	label -> Synset__service__n__01 [label=IsA]
+	Synset__duty__n__02 -> Synset__work__n__01 [label=IsA]
+	Synset__job__n__02 -> Synset__duty__n__02 [label=IsA]
+	label -> Synset__job__n__02 [label=IsA]
+	label -> Synset__duty__n__02 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__care__n__01 -> Synset__work__n__01 [label=IsA]
+	Synset__treatment__n__01 -> Synset__care__n__01 [label=IsA]
+	label -> Synset__treatment__n__01 [label=IsA]
+	Synset__medical_care__n__01 -> Synset__treatment__n__01 [label=IsA]
+	Synset__therapy__n__01 -> Synset__medical_care__n__01 [label=IsA]
+	Synset__medication__n__02 -> Synset__therapy__n__01 [label=IsA]
+	Synset__administration__n__03 -> Synset__medication__n__02 [label=IsA]
+	label -> Synset__administration__n__03 [label=IsA]
+	Synset__grouping__n__02 -> Synset__activity__n__01 [label=IsA]
+	Synset__categorization__n__03 -> Synset__grouping__n__02 [label=IsA]
+	label -> Synset__categorization__n__03 [label=IsA]
+	label -> Synset__categorization__n__03 [label=IsA]
+	Synset__categorization__n__03 -> label [label=Relation]
+	label -> Synset__categorization__n__03 [label=IsA]
+	Synset__categorization__n__03 -> label [label=Relation]
+	Synset__collection__n__04 -> Synset__grouping__n__02 [label=IsA]
+	Synset__diversion__n__01 -> Synset__activity__n__01 [label=IsA]
+	Synset__entertainment__n__01 -> Synset__diversion__n__01 [label=IsA]
+	Synset__show__n__01 -> Synset__entertainment__n__01 [label=IsA]
+	label -> Synset__show__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__game__n__03 -> Synset__diversion__n__01 [label=IsA]
+	label -> Synset__game__n__03 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> Synset__diversion__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__athletic_game__n__01 -> label [label=IsA]
+	Synset__outdoor_game__n__01 -> Synset__athletic_game__n__01 [label=IsA]
+	Synset__field_game__n__01 -> Synset__outdoor_game__n__01 [label=IsA]
+	Synset__cricket__n__02 -> Synset__field_game__n__01 [label=IsA]
+	label -> Synset__cricket__n__02 [label=IsA]
+	Synset__celebration__n__02 -> Synset__diversion__n__01 [label=IsA]
+	Synset__festival__n__02 -> Synset__celebration__n__02 [label=IsA]
+	label -> Synset__festival__n__02 [label=IsA]
+	Synset__pastime__n__01 -> Synset__diversion__n__01 [label=IsA]
+	label -> Synset__pastime__n__01 [label=IsA]
+	Synset__operation__n__05 -> Synset__activity__n__01 [label=IsA]
+	Synset__mission__n__02 -> Synset__operation__n__05 [label=IsA]
+	Synset__protection__n__01 -> Synset__activity__n__01 [label=IsA]
+	Synset__self_defense__n__01 -> Synset__protection__n__01 [label=IsA]
+	label -> Synset__self_defense__n__01 [label=IsA]
+	Synset__education__n__01 -> Synset__activity__n__01 [label=IsA]
+	label -> Synset__education__n__01 [label=IsA]
+	Synset__turn__n__03 -> Synset__activity__n__01 [label=IsA]
+	Synset__move__n__05 -> Synset__turn__n__03 [label=IsA]
+	label -> Synset__move__n__05 [label=IsA]
+	Synset__aid__n__02 -> Synset__activity__n__01 [label=IsA]
+	Synset__support__n__02 -> Synset__aid__n__02 [label=IsA]
+	label -> Synset__support__n__02 [label=IsA]
+	Synset__occupation__n__01 -> Synset__activity__n__01 [label=IsA]
+	label -> Synset__occupation__n__01 [label=IsA]
+	label -> Synset__occupation__n__01 [label=IsA]
+	Synset__occupation__n__01 -> label [label=Relation]
+	label -> Synset__occupation__n__01 [label=IsA]
+	Synset__occupation__n__01 -> label [label=Relation]
+	Synset__position__n__06 -> Synset__occupation__n__01 [label=IsA]
+	Synset__regency__n__03 -> Synset__position__n__06 [label=IsA]
+	Synset__employment__n__02 -> Synset__occupation__n__01 [label=IsA]
+	label -> Synset__employment__n__02 [label=IsA]
+	Synset__practice__n__01 -> Synset__activity__n__01 [label=IsA]
+	label -> Synset__practice__n__01 [label=IsA]
+	Synset__ceremony__n__03 -> Synset__activity__n__01 [label=IsA]
+	Synset__religious_ceremony__n__01 -> Synset__ceremony__n__03 [label=IsA]
+	Synset__rite__n__01 -> Synset__religious_ceremony__n__01 [label=IsA]
+	Synset__office__n__06 -> Synset__rite__n__01 [label=IsA]
+	label -> Synset__office__n__06 [label=IsA]
+	Synset__speech_act__n__01 -> Synset__act__n__02 [label=IsA]
+	Synset__request__n__02 -> Synset__speech_act__n__01 [label=IsA]
+	label -> Synset__request__n__02 [label=IsA]
+	Synset__questioning__n__01 -> Synset__request__n__02 [label=IsA]
+	Synset__interrogation__n__03 -> Synset__questioning__n__01 [label=IsA]
+	label -> Synset__interrogation__n__03 [label=IsA]
+	Synset__address__n__03 -> Synset__speech_act__n__01 [label=IsA]
+	Synset__public_speaking__n__01 -> Synset__address__n__03 [label=IsA]
+	label -> Synset__public_speaking__n__01 [label=IsA]
+	Synset__disclosure__n__01 -> Synset__speech_act__n__01 [label=IsA]
+	Synset__discovery__n__02 -> Synset__disclosure__n__01 [label=IsA]
+	label -> Synset__discovery__n__02 [label=IsA]
+	Synset__disagreement__n__03 -> Synset__speech_act__n__01 [label=IsA]
+	Synset__dispute__n__01 -> Synset__disagreement__n__03 [label=IsA]
+	label -> Synset__dispute__n__01 [label=IsA]
+	Synset__action__n__01 -> Synset__act__n__02 [label=IsA]
+	Synset__change__n__03 -> Synset__action__n__01 [label=IsA]
+	Synset__change_of_state__n__01 -> Synset__change__n__03 [label=IsA]
+	Synset__termination__n__05 -> Synset__change_of_state__n__01 [label=IsA]
+	Synset__destruction__n__01 -> Synset__termination__n__05 [label=IsA]
+	label -> Synset__destruction__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__cooking__n__01 -> Synset__change_of_state__n__01 [label=IsA]
+	label -> Synset__cooking__n__01 [label=IsA]
+	Synset__change_of_magnitude__n__01 -> Synset__change__n__03 [label=IsA]
+	Synset__increase__n__05 -> Synset__change_of_magnitude__n__01 [label=IsA]
+	Synset__expansion__n__01 -> Synset__increase__n__05 [label=IsA]
+	label -> Synset__expansion__n__01 [label=IsA]
+	Synset__expansion__n__04 -> Synset__increase__n__05 [label=IsA]
+	Synset__motion__n__06 -> Synset__change__n__03 [label=IsA]
+	Synset__travel__n__01 -> Synset__motion__n__06 [label=IsA]
+	Synset__journey__n__01 -> Synset__travel__n__01 [label=IsA]
+	Synset__tour__n__01 -> Synset__journey__n__01 [label=IsA]
+	Synset__movement__n__11 -> Synset__change__n__03 [label=IsA]
+	Synset__transportation__n__02 -> Synset__movement__n__11 [label=IsA]
+	label -> Synset__transportation__n__02 [label=IsA]
+	Synset__performance__n__03 -> Synset__action__n__01 [label=IsA]
+	label -> Synset__performance__n__03 [label=IsA]
+	Synset__arrival__n__02 -> Synset__action__n__01 [label=IsA]
+	Synset__appearance__n__05 -> Synset__arrival__n__02 [label=IsA]
+	label -> Synset__appearance__n__05 [label=IsA]
+	Synset__accomplishment__n__01 -> Synset__action__n__01 [label=IsA]
+	Synset__attainment__n__01 -> Synset__accomplishment__n__01 [label=IsA]
+	Synset__record__n__06 -> Synset__attainment__n__01 [label=IsA]
+	label -> Synset__record__n__06 [label=IsA]
+	Synset__communication__n__01 -> Synset__act__n__02 [label=IsA]
+	Synset__transmission__n__02 -> Synset__communication__n__01 [label=IsA]
+	Synset__modulation__n__02 -> Synset__transmission__n__02 [label=IsA]
+	label -> Synset__modulation__n__02 [label=IsA]
+	Synset__discovery__n__01 -> Synset__act__n__02 [label=IsA]
+	Synset__determination__n__01 -> Synset__discovery__n__01 [label=IsA]
+	Synset__designation__n__03 -> Synset__determination__n__01 [label=IsA]
+	label -> Synset__designation__n__03 [label=IsA]
+	label -> Synset__designation__n__03 [label=IsA]
+	Synset__designation__n__03 -> label [label=Relation]
+	Synset__social_event__n__01 -> Synset__event__n__01 [label=IsA]
+	Synset__show__n__03 -> Synset__social_event__n__01 [label=IsA]
+	label -> Synset__show__n__03 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__performance__n__01 -> Synset__show__n__03 [label=IsA]
+	label -> Synset__performance__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> Synset__performance__n__01 [label=IsA]
+	Synset__performance__n__01 -> label [label=Relation]
+	label -> Synset__performance__n__01 [label=IsA]
+	Synset__performance__n__01 -> label [label=Relation]
+	label -> Synset__show__n__03 [label=IsA]
+	Synset__show__n__03 -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> Synset__social_event__n__01 [label=IsA]
+	Synset__match__n__02 -> label [label=IsA]
+	label -> Synset__match__n__02 [label=IsA]
+	Synset__tournament__n__01 -> label [label=IsA]
+	label -> Synset__tournament__n__01 [label=IsA]
+	label -> Synset__tournament__n__01 [label=IsA]
+	Synset__tournament__n__01 -> label [label=Relation]
+	Synset__race__n__01 -> label [label=IsA]
+	label -> Synset__race__n__01 [label=IsA]
+	Synset__championship__n__02 -> label [label=IsA]
+	label -> Synset__championship__n__02 [label=IsA]
+	label -> Synset__championship__n__02 [label=IsA]
+	Synset__championship__n__02 -> label [label=Relation]
+	Synset__athletic_contest__n__01 -> label [label=IsA]
+	Synset__game__n__02 -> label [label=IsA]
+	label -> Synset__game__n__02 [label=IsA]
+	Synset__affair__n__03 -> Synset__social_event__n__01 [label=IsA]
+	Synset__ceremony__n__01 -> Synset__affair__n__03 [label=IsA]
+	label -> Synset__event__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__happening__n__01 -> Synset__event__n__01 [label=IsA]
+	Synset__trouble__n__03 -> Synset__happening__n__01 [label=IsA]
+	Synset__misfortune__n__01 -> Synset__trouble__n__03 [label=IsA]
+	Synset__mishap__n__02 -> Synset__misfortune__n__01 [label=IsA]
+	Synset__accident__n__01 -> Synset__mishap__n__02 [label=IsA]
+	label -> Synset__accident__n__01 [label=IsA]
+	Synset__calamity__n__01 -> Synset__misfortune__n__01 [label=IsA]
+	Synset__beginning__n__01 -> Synset__happening__n__01 [label=IsA]
+	Synset__origin__n__03 -> Synset__beginning__n__01 [label=IsA]
+	Synset__cause__n__01 -> Synset__origin__n__03 [label=IsA]
+	Synset__factor__n__01 -> Synset__cause__n__01 [label=IsA]
+	label -> Synset__factor__n__01 [label=IsA]
+	label -> Synset__factor__n__01 [label=IsA]
+	Synset__factor__n__01 -> label [label=Relation]
+	Synset__producer__n__03 -> Synset__cause__n__01 [label=IsA]
+	label -> Synset__producer__n__03 [label=IsA]
+	Synset__change__n__01 -> Synset__happening__n__01 [label=IsA]
+	label -> Synset__change__n__01 [label=IsA]
+	label -> Synset__event__n__01 [label=IsA]
+	Synset__event__n__01 -> label [label=Relation]
+	Synset__group_action__n__01 -> Synset__event__n__01 [label=IsA]
+	Synset__conflict__n__01 -> Synset__group_action__n__01 [label=IsA]
+	label -> Synset__group_action__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__vote__n__02 -> Synset__group_action__n__01 [label=IsA]
+	label -> Synset__vote__n__02 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__transaction__n__01 -> Synset__group_action__n__01 [label=IsA]
+	Synset__commerce__n__01 -> Synset__transaction__n__01 [label=IsA]
+	Synset__distribution__n__04 -> Synset__commerce__n__01 [label=IsA]
+	label -> Synset__distribution__n__04 [label=IsA]
+	Synset__commercial_enterprise__n__02 -> Synset__commerce__n__01 [label=IsA]
+	label -> Synset__commercial_enterprise__n__02 [label=IsA]
+	Synset__assembly__n__06 -> Synset__group_action__n__01 [label=IsA]
+	Synset__meeting__n__04 -> Synset__assembly__n__06 [label=IsA]
+	Synset__session__n__03 -> Synset__meeting__n__04 [label=IsA]
+	label -> Synset__session__n__03 [label=IsA]
+	Synset__due_process__n__01 -> Synset__group_action__n__01 [label=IsA]
+	Synset__proceeding__n__01 -> Synset__due_process__n__01 [label=IsA]
+	label -> Synset__proceeding__n__01 [label=IsA]
+	label -> Synset__event__n__01 [label=IsA]
+	Synset__event__n__01 -> label [label=Relation]
+	label -> Synset__event__n__01 [label=IsA]
+	Synset__event__n__01 -> label [label=Relation]
+	label -> Synset__event__n__01 [label=IsA]
+	Synset__event__n__01 -> label [label=Relation]
+	Synset__cognition__n__01 -> Synset__psychological_feature__n__01 [label=IsA]
+	Synset__content__n__05 -> Synset__cognition__n__01 [label=IsA]
+	Synset__idea__n__01 -> Synset__content__n__05 [label=IsA]
+	Synset__concept__n__01 -> Synset__idea__n__01 [label=IsA]
+	Synset__category__n__02 -> Synset__concept__n__01 [label=IsA]
+	Synset__kind__n__01 -> Synset__category__n__02 [label=IsA]
+	Synset__type__n__01 -> Synset__kind__n__01 [label=IsA]
+	Synset__version__n__02 -> Synset__type__n__01 [label=IsA]
+	label -> Synset__type__n__01 [label=IsA]
+	label -> Synset__kind__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__brand__n__02 -> Synset__kind__n__01 [label=IsA]
+	label -> Synset__brand__n__02 [label=IsA]
+	label -> Synset__brand__n__02 [label=IsA]
+	Synset__brand__n__02 -> label [label=Relation]
+	Synset__description__n__03 -> Synset__kind__n__01 [label=IsA]
+	label -> Synset__description__n__03 [label=IsA]
+	label -> Synset__description__n__03 [label=IsA]
+	Synset__description__n__03 -> label [label=Relation]
+	Synset__model__n__02 -> Synset__kind__n__01 [label=IsA]
+	label -> Synset__model__n__02 [label=IsA]
+	Synset__style__n__03 -> Synset__kind__n__01 [label=IsA]
+	label -> Synset__style__n__03 [label=IsA]
+	label -> Synset__kind__n__01 [label=IsA]
+	Synset__kind__n__01 -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> Synset__category__n__02 [label=IsA]
+	label -> Synset__category__n__02 [label=IsA]
+	Synset__category__n__02 -> label [label=Relation]
+	label -> Synset__category__n__02 [label=IsA]
+	Synset__category__n__02 -> label [label=Relation]
+	label -> Synset__category__n__02 [label=IsA]
+	Synset__category__n__02 -> label [label=Relation]
+	label -> Synset__category__n__02 [label=IsA]
+	Synset__category__n__02 -> label [label=Relation]
+	Synset__property__n__04 -> Synset__concept__n__01 [label=IsA]
+	Synset__feature__n__01 -> Synset__property__n__04 [label=IsA]
+	Synset__attraction__n__04 -> Synset__feature__n__01 [label=IsA]
+	label -> Synset__attraction__n__04 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> Synset__feature__n__01 [label=IsA]
+	label -> Synset__feature__n__01 [label=IsA]
+	Synset__feature__n__01 -> label [label=Relation]
+	Synset__plan__n__01 -> Synset__idea__n__01 [label=IsA]
+	label -> Synset__plan__n__01 [label=IsA]
+	Synset__blueprint__n__01 -> Synset__plan__n__01 [label=IsA]
+	label -> Synset__blueprint__n__01 [label=IsA]
+	Synset__knowledge_domain__n__01 -> Synset__content__n__05 [label=IsA]
+	label -> Synset__knowledge_domain__n__01 [label=IsA]
+	Synset__humanistic_discipline__n__01 -> label [label=IsA]
+	Synset__performing_arts__n__01 -> Synset__humanistic_discipline__n__01 [label=IsA]
+	Synset__acting__n__01 -> Synset__performing_arts__n__01 [label=IsA]
+	Synset__portrayal__n__02 -> Synset__acting__n__01 [label=IsA]
+	Synset__character__n__04 -> Synset__portrayal__n__02 [label=IsA]
+	label -> Synset__character__n__04 [label=IsA]
+	Synset__science__n__01 -> label [label=IsA]
+	Synset__natural_science__n__01 -> Synset__science__n__01 [label=IsA]
+	Synset__life_science__n__01 -> Synset__natural_science__n__01 [label=IsA]
+	Synset__medical_science__n__01 -> Synset__life_science__n__01 [label=IsA]
+	Synset__medicine__n__01 -> Synset__medical_science__n__01 [label=IsA]
+	label -> Synset__medicine__n__01 [label=IsA]
+	Synset__mathematics__n__01 -> Synset__science__n__01 [label=IsA]
+	Synset__pure_mathematics__n__01 -> Synset__mathematics__n__01 [label=IsA]
+	label -> Synset__pure_mathematics__n__01 [label=IsA]
+	Synset__goal__n__01 -> Synset__content__n__05 [label=IsA]
+	Synset__destination__n__02 -> Synset__goal__n__01 [label=IsA]
+	label -> Synset__content__n__05 [label=IsA]
+	Synset__spiritual_being__n__01 -> label [label=IsA]
+	label -> Synset__spiritual_being__n__01 [label=IsA]
+	Synset__universe__n__03 -> Synset__content__n__05 [label=IsA]
+	label -> Synset__universe__n__03 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__topic__n__02 -> Synset__content__n__05 [label=IsA]
+	label -> Synset__topic__n__02 [label=IsA]
+	label -> Synset__topic__n__02 [label=IsA]
+	Synset__topic__n__02 -> label [label=Relation]
+	Synset__ability__n__02 -> Synset__cognition__n__01 [label=IsA]
+	Synset__know_how__n__01 -> Synset__ability__n__02 [label=IsA]
+	Synset__method__n__01 -> Synset__know_how__n__01 [label=IsA]
+	label -> Synset__method__n__01 [label=IsA]
+	Synset__system__n__04 -> Synset__method__n__01 [label=IsA]
+	Synset__program__n__02 -> Synset__system__n__04 [label=IsA]
+	label -> Synset__program__n__02 [label=IsA]
+	label -> Synset__method__n__01 [label=IsA]
+	Synset__method__n__01 -> label [label=Relation]
+	Synset__faculty__n__01 -> Synset__ability__n__02 [label=IsA]
+	Synset__attention__n__05 -> Synset__faculty__n__01 [label=IsA]
+	Synset__concentration__n__05 -> Synset__attention__n__05 [label=IsA]
+	Synset__focus__n__01 -> Synset__concentration__n__05 [label=IsA]
+	label -> Synset__focus__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__government_building__n__01 -> label [label=IsA]
+	Synset__medical_building__n__01 -> label [label=IsA]
+	Synset__hospital__n__01 -> Synset__medical_building__n__01 [label=IsA]
+	label -> Synset__hospital__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__center__n__03 -> label [label=IsA]
+	label -> Synset__center__n__03 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__house__n__01 -> label [label=IsA]
+	Synset__residence__n__02 -> Synset__house__n__01 [label=IsA]
+	Synset__religious_residence__n__01 -> Synset__residence__n__02 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__area__n__05 -> label [label=IsA]
+	Synset__room__n__01 -> Synset__area__n__05 [label=IsA]
+	Synset__housing__n__01 -> label [label=IsA]
+	Synset__living_quarters__n__01 -> Synset__housing__n__01 [label=IsA]
+	Synset__dwelling__n__01 -> Synset__housing__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__plant__n__01 -> label [label=IsA]
+	label -> Synset__plant__n__01 [label=IsA]
+	Synset__factory__n__01 -> Synset__plant__n__01 [label=IsA]
+	label -> Synset__factory__n__01 [label=IsA]
+	Synset__establishment__n__04 -> label [label=IsA]
+	Synset__place_of_business__n__01 -> Synset__establishment__n__04 [label=IsA]
+	Synset__mercantile_establishment__n__01 -> Synset__place_of_business__n__01 [label=IsA]
+	label -> Synset__mercantile_establishment__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__body__n__11 -> label [label=IsA]
+	label -> Synset__body__n__11 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__creativity__n__01 -> Synset__ability__n__02 [label=IsA]
+	Synset__imagination__n__01 -> Synset__creativity__n__01 [label=IsA]
+	Synset__imaginary_being__n__01 -> Synset__imagination__n__01 [label=IsA]
+	label -> Synset__imaginary_being__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> Synset__imaginary_being__n__01 [label=IsA]
+	Synset__imaginary_being__n__01 -> label [label=Relation]
+	label -> Synset__imaginary_being__n__01 [label=IsA]
+	Synset__imaginary_being__n__01 -> label [label=Relation]
+	Synset__monster__n__01 -> Synset__imaginary_being__n__01 [label=IsA]
+	label -> Synset__imaginary_being__n__01 [label=IsA]
+	Synset__imaginary_being__n__01 -> label [label=Relation]
+	label -> Synset__ability__n__02 [label=IsA]
+	Synset__attitude__n__01 -> Synset__cognition__n__01 [label=IsA]
+	Synset__orientation__n__02 -> Synset__attitude__n__01 [label=IsA]
+	Synset__position__n__03 -> Synset__orientation__n__02 [label=IsA]
+	Synset__paradigm__n__04 -> Synset__position__n__03 [label=IsA]
+	label -> Synset__paradigm__n__04 [label=IsA]
+	Synset__structure__n__03 -> Synset__cognition__n__01 [label=IsA]
+	Synset__arrangement__n__03 -> Synset__structure__n__03 [label=IsA]
+	Synset__design__n__02 -> Synset__arrangement__n__03 [label=IsA]
+	Synset__configuration__n__01 -> Synset__design__n__02 [label=IsA]
+	label -> Synset__configuration__n__01 [label=IsA]
+	label -> Synset__configuration__n__01 [label=IsA]
+	Synset__configuration__n__01 -> label [label=Relation]
+	label -> Synset__arrangement__n__03 [label=IsA]
+	Synset__classification_system__n__01 -> Synset__arrangement__n__03 [label=IsA]
+	Synset__rating_system__n__01 -> Synset__classification_system__n__01 [label=IsA]
+	label -> Synset__rating_system__n__01 [label=IsA]
+	label -> Synset__rating_system__n__01 [label=IsA]
+	Synset__rating_system__n__01 -> label [label=Relation]
+	Synset__process__n__02 -> Synset__cognition__n__01 [label=IsA]
+	Synset__basic_cognitive_process__n__01 -> Synset__process__n__02 [label=IsA]
+	Synset__perception__n__03 -> Synset__basic_cognitive_process__n__01 [label=IsA]
+	Synset__sensation__n__01 -> Synset__perception__n__03 [label=IsA]
+	Synset__taste__n__01 -> Synset__sensation__n__01 [label=IsA]
+	Synset__relish__n__03 -> Synset__taste__n__01 [label=IsA]
+	label -> Synset__relish__n__03 [label=IsA]
+	Synset__higher_cognitive_process__n__01 -> Synset__process__n__02 [label=IsA]
+	Synset__thinking__n__01 -> Synset__higher_cognitive_process__n__01 [label=IsA]
+	Synset__reasoning__n__01 -> Synset__thinking__n__01 [label=IsA]
+	Synset__conjecture__n__03 -> Synset__reasoning__n__01 [label=IsA]
+	Synset__theorization__n__01 -> Synset__conjecture__n__03 [label=IsA]
+	Synset__ideology__n__02 -> Synset__theorization__n__01 [label=IsA]
+	label -> Synset__ideology__n__02 [label=IsA]
+	Synset__information__n__02 -> Synset__cognition__n__01 [label=IsA]
+	Synset__datum__n__01 -> Synset__information__n__02 [label=IsA]
+	Synset__statistic__n__01 -> Synset__datum__n__01 [label=IsA]
+	label -> Synset__statistic__n__01 [label=IsA]
+	label -> Synset__statistic__n__01 [label=IsA]
+	Synset__statistic__n__01 -> label [label=Relation]
+	label -> Synset__statistic__n__01 [label=IsA]
+	Synset__statistic__n__01 -> label [label=Relation]
+	label -> Synset__statistic__n__01 [label=IsA]
+	Synset__statistic__n__01 -> label [label=Relation]
+	label -> Synset__statistic__n__01 [label=IsA]
+	Synset__statistic__n__01 -> label [label=Relation]
+	Synset__evidence__n__01 -> Synset__information__n__02 [label=IsA]
+	label -> Synset__evidence__n__01 [label=IsA]
+	label -> Synset__evidence__n__01 [label=IsA]
+	Synset__evidence__n__01 -> label [label=Relation]
+	label -> Synset__evidence__n__01 [label=IsA]
+	Synset__evidence__n__01 -> label [label=Relation]
+	Synset__effect__n__06 -> label [label=IsA]
+	Synset__side_effect__n__01 -> Synset__effect__n__06 [label=IsA]
+	label -> Synset__side_effect__n__01 [label=IsA]
+	Synset__motivation__n__01 -> Synset__psychological_feature__n__01 [label=IsA]
+	Synset__rational_motive__n__01 -> Synset__motivation__n__01 [label=IsA]
+	Synset__reason__n__01 -> Synset__rational_motive__n__01 [label=IsA]
+	label -> Synset__reason__n__01 [label=IsA]
+	Synset__group__n__01 -> Synset__abstraction__n__06 [label=IsA]
+	Synset__social_group__n__01 -> Synset__group__n__01 [label=IsA]
+	label -> Synset__social_group__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__institution__n__01 -> label [label=IsA]
+	label -> Synset__institution__n__01 [label=IsA]
+	label -> Synset__institution__n__01 [label=IsA]
+	Synset__institution__n__01 -> label [label=Relation]
+	Synset__university__n__03 -> label [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__company__n__01 -> Synset__institution__n__01 [label=IsA]
+	label -> Synset__company__n__01 [label=IsA]
+	Synset__distributor__n__03 -> Synset__company__n__01 [label=IsA]
+	label -> Synset__distributor__n__03 [label=IsA]
+	label -> Synset__institution__n__01 [label=IsA]
+	Synset__institution__n__01 -> label [label=Relation]
+	Synset__sect__n__01 -> label [label=IsA]
+	Synset__order__n__11 -> Synset__sect__n__01 [label=IsA]
+	label -> Synset__order__n__11 [label=IsA]
+	label -> Synset__sect__n__01 [label=IsA]
+	Synset__medical_institution__n__01 -> Synset__institution__n__01 [label=IsA]
+	label -> Synset__medical_institution__n__01 [label=IsA]
+	Synset__enterprise__n__02 -> label [label=IsA]
+	label -> Synset__enterprise__n__02 [label=IsA]
+	Synset__manufacturer__n__01 -> label [label=IsA]
+	label -> Synset__manufacturer__n__01 [label=IsA]
+	label -> Synset__manufacturer__n__01 [label=IsA]
+	Synset__manufacturer__n__01 -> label [label=Relation]
+	label -> Synset__manufacturer__n__01 [label=IsA]
+	Synset__manufacturer__n__01 -> label [label=Relation]
+	label -> Synset__manufacturer__n__01 [label=IsA]
+	Synset__manufacturer__n__01 -> label [label=Relation]
+	label -> Synset__manufacturer__n__01 [label=IsA]
+	Synset__manufacturer__n__01 -> label [label=Relation]
+	Synset__bottler__n__01 -> Synset__manufacturer__n__01 [label=IsA]
+	label -> Synset__manufacturer__n__01 [label=IsA]
+	Synset__manufacturer__n__01 -> label [label=Relation]
+	label -> Synset__manufacturer__n__01 [label=IsA]
+	Synset__manufacturer__n__01 -> label [label=Relation]
+	label -> Synset__manufacturer__n__01 [label=IsA]
+	Synset__manufacturer__n__01 -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__firm__n__01 -> label [label=IsA]
+	label -> Synset__firm__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__carrier__n__05 -> label [label=IsA]
+	Synset__line__n__23 -> Synset__carrier__n__05 [label=IsA]
+	label -> Synset__line__n__23 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__agency__n__02 -> label [label=IsA]
+	Synset__news_agency__n__01 -> Synset__agency__n__02 [label=IsA]
+	Synset__syndicate__n__03 -> Synset__news_agency__n__01 [label=IsA]
+	label -> Synset__syndicate__n__03 [label=IsA]
+	Synset__commercial_enterprise__n__01 -> Synset__enterprise__n__02 [label=IsA]
+	label -> Synset__commercial_enterprise__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__unit__n__03 -> label [label=IsA]
+	Synset__administrative_unit__n__01 -> Synset__unit__n__03 [label=IsA]
+	label -> Synset__administrative_unit__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__division__n__04 -> Synset__administrative_unit__n__01 [label=IsA]
+	label -> Synset__division__n__04 [label=IsA]
+	Synset__committee__n__01 -> Synset__administrative_unit__n__01 [label=IsA]
+	label -> Synset__committee__n__01 [label=IsA]
+	label -> Synset__committee__n__01 [label=IsA]
+	Synset__committee__n__01 -> label [label=Relation]
+	label -> Synset__unit__n__03 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__gang__n__03 -> Synset__unit__n__03 [label=IsA]
+	label -> Synset__gang__n__03 [label=IsA]
+	label -> Synset__gang__n__03 [label=IsA]
+	Synset__gang__n__03 -> label [label=Relation]
+	label -> Synset__gang__n__03 [label=IsA]
+	Synset__gang__n__03 -> label [label=Relation]
+	label -> Synset__unit__n__03 [label=IsA]
+	Synset__unit__n__03 -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__ensemble__n__01 -> label [label=IsA]
+	label -> Synset__ensemble__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__union__n__01 -> label [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__force__n__04 -> label [label=IsA]
+	label -> Synset__force__n__04 [label=IsA]
+	label -> Synset__force__n__04 [label=IsA]
+	Synset__force__n__04 -> label [label=Relation]
+	Synset__staff__n__01 -> Synset__force__n__04 [label=IsA]
+	label -> Synset__staff__n__01 [label=IsA]
+	Synset__association__n__01 -> label [label=IsA]
+	label -> Synset__association__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> Synset__association__n__01 [label=IsA]
+	Synset__association__n__01 -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__polity__n__02 -> label [label=IsA]
+	label -> Synset__polity__n__02 [label=IsA]
+	Synset__company__n__04 -> label [label=IsA]
+	label -> Synset__company__n__04 [label=IsA]
+	label -> Synset__company__n__04 [label=IsA]
+	Synset__company__n__04 -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__body__n__02 -> Synset__social_group__n__01 [label=IsA]
+	label -> Synset__body__n__02 [label=IsA]
+	Synset__administration__n__02 -> Synset__body__n__02 [label=IsA]
+	label -> Synset__body__n__02 [label=IsA]
+	Synset__body__n__02 -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__political_system__n__01 -> Synset__social_group__n__01 [label=IsA]
+	label -> Synset__political_system__n__01 [label=IsA]
+	Synset__autocracy__n__01 -> Synset__political_system__n__01 [label=IsA]
+	Synset__monarchy__n__01 -> Synset__autocracy__n__01 [label=IsA]
+	Synset__kingdom__n__04 -> Synset__monarchy__n__01 [label=IsA]
+	Synset__gathering__n__01 -> Synset__social_group__n__01 [label=IsA]
+	Synset__assembly__n__04 -> Synset__gathering__n__01 [label=IsA]
+	Synset__court__n__01 -> Synset__assembly__n__04 [label=IsA]
+	label -> Synset__court__n__01 [label=IsA]
+	Synset__municipality__n__02 -> Synset__gathering__n__01 [label=IsA]
+	Synset__town__n__02 -> Synset__municipality__n__02 [label=IsA]
+	Synset__borough__n__02 -> Synset__town__n__02 [label=IsA]
+	label -> Synset__municipality__n__02 [label=IsA]
+	Synset__class__n__02 -> Synset__gathering__n__01 [label=IsA]
+	label -> Synset__class__n__02 [label=IsA]
+	Synset__meeting__n__01 -> Synset__gathering__n__01 [label=IsA]
+	Synset__conference__n__01 -> Synset__meeting__n__01 [label=IsA]
+	label -> Synset__conference__n__01 [label=IsA]
+	Synset__sector__n__02 -> Synset__social_group__n__01 [label=IsA]
+	label -> Synset__sector__n__02 [label=IsA]
+	Synset__kin__n__02 -> Synset__social_group__n__01 [label=IsA]
+	label -> Synset__kin__n__02 [label=IsA]
+	Synset__genealogy__n__01 -> Synset__kin__n__02 [label=IsA]
+	Synset__lineage__n__01 -> Synset__genealogy__n__01 [label=IsA]
+	label -> Synset__lineage__n__01 [label=IsA]
+	Synset__house__n__06 -> label [label=IsA]
+	Synset__royalty__n__02 -> Synset__house__n__06 [label=IsA]
+	label -> Synset__royalty__n__02 [label=IsA]
+	label -> Synset__social_group__n__01 [label=IsA]
+	Synset__social_group__n__01 -> label [label=Relation]
+	Synset__artistic_movement__n__01 -> label [label=IsA]
+	label -> Synset__artistic_movement__n__01 [label=IsA]
+	Synset__collection__n__01 -> Synset__group__n__01 [label=IsA]
+	label -> Synset__collection__n__01 [label=IsA]
+	Synset__class__n__01 -> Synset__collection__n__01 [label=IsA]
+	label -> Synset__collection__n__01 [label=IsA]
+	Synset__collection__n__01 -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> Synset__collection__n__01 [label=IsA]
+	Synset__collection__n__01 -> label [label=Relation]
+	Synset__library__n__02 -> Synset__collection__n__01 [label=IsA]
+	label -> Synset__library__n__02 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> Synset__collection__n__01 [label=IsA]
+	Synset__collection__n__01 -> label [label=Relation]
+	Synset__arrangement__n__02 -> Synset__group__n__01 [label=IsA]
+	Synset__ordering__n__01 -> Synset__arrangement__n__02 [label=IsA]
+	Synset__series__n__01 -> Synset__ordering__n__01 [label=IsA]
+	label -> Synset__series__n__01 [label=IsA]
+	Synset__hierarchy__n__01 -> Synset__series__n__01 [label=IsA]
+	label -> Synset__hierarchy__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__sequence__n__01 -> Synset__series__n__01 [label=IsA]
+	label -> Synset__sequence__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__ethnic_group__n__01 -> Synset__group__n__01 [label=IsA]
+	label -> Synset__ethnic_group__n__01 [label=IsA]
+	Synset__people__n__01 -> Synset__group__n__01 [label=IsA]
+	Synset__class__n__03 -> Synset__people__n__01 [label=IsA]
+	Synset__upper_class__n__01 -> Synset__class__n__03 [label=IsA]
+	Synset__elite__n__01 -> Synset__upper_class__n__01 [label=IsA]
+	Synset__nobility__n__01 -> Synset__elite__n__01 [label=IsA]
+	label -> Synset__nobility__n__01 [label=IsA]
+	Synset__knighthood__n__01 -> Synset__nobility__n__01 [label=IsA]
+	label -> Synset__group__n__01 [label=IsA]
+	Synset__biological_group__n__01 -> Synset__group__n__01 [label=IsA]
+	Synset__animal_group__n__01 -> Synset__biological_group__n__01 [label=IsA]
+	label -> Synset__animal_group__n__01 [label=IsA]
+	Synset__taxonomic_group__n__01 -> Synset__biological_group__n__01 [label=IsA]
+	Synset__variety__n__03 -> Synset__taxonomic_group__n__01 [label=IsA]
+	Synset__measure__n__02 -> Synset__abstraction__n__06 [label=IsA]
+	Synset__fundamental_quantity__n__01 -> Synset__measure__n__02 [label=IsA]
+	Synset__time_period__n__01 -> Synset__fundamental_quantity__n__01 [label=IsA]
+	Synset__calendar_month__n__01 -> Synset__time_period__n__01 [label=IsA]
+	Synset__date__n__06 -> Synset__calendar_month__n__01 [label=IsA]
+	label -> Synset__date__n__06 [label=IsA]
+	Synset__calendar_day__n__01 -> Synset__time_period__n__01 [label=IsA]
+	Synset__day__n__03 -> Synset__calendar_day__n__01 [label=IsA]
+	label -> Synset__day__n__03 [label=IsA]
+	label -> Synset__day__n__03 [label=IsA]
+	Synset__day__n__03 -> label [label=Relation]
+	Synset__year__n__01 -> Synset__time_period__n__01 [label=IsA]
+	Synset__calendar_year__n__01 -> Synset__year__n__01 [label=IsA]
+	Synset__season__n__01 -> Synset__time_period__n__01 [label=IsA]
+	label -> Synset__season__n__01 [label=IsA]
+	label -> Synset__time_period__n__01 [label=IsA]
+	Synset__phase__n__01 -> Synset__time_period__n__01 [label=IsA]
+	label -> Synset__phase__n__01 [label=IsA]
+	label -> Synset__phase__n__01 [label=IsA]
+	Synset__phase__n__01 -> label [label=Relation]
+	Synset__mass__n__01 -> Synset__fundamental_quantity__n__01 [label=IsA]
+	label -> Synset__mass__n__01 [label=IsA]
+	Synset__time_unit__n__01 -> Synset__measure__n__02 [label=IsA]
+	label -> Synset__time_unit__n__01 [label=IsA]
+	Synset__day__n__01 -> Synset__time_unit__n__01 [label=IsA]
+	label -> Synset__day__n__01 [label=IsA]
+	Synset__system_of_measurement__n__01 -> Synset__measure__n__02 [label=IsA]
+	Synset__standard__n__01 -> Synset__system_of_measurement__n__01 [label=IsA]
+	Synset__medium_of_exchange__n__01 -> Synset__standard__n__01 [label=IsA]
+	label -> Synset__medium_of_exchange__n__01 [label=IsA]
+	label -> Synset__measure__n__02 [label=IsA]
+	Synset__relation__n__01 -> Synset__abstraction__n__06 [label=IsA]
+	Synset__part__n__01 -> Synset__relation__n__01 [label=IsA]
+	Synset__language_unit__n__01 -> Synset__part__n__01 [label=IsA]
+	Synset__name__n__01 -> Synset__language_unit__n__01 [label=IsA]
+	Synset__appellation__n__01 -> Synset__name__n__01 [label=IsA]
+	Synset__title__n__06 -> Synset__appellation__n__01 [label=IsA]
+	label -> Synset__title__n__06 [label=IsA]
+	label -> Synset__title__n__06 [label=IsA]
+	Synset__title__n__06 -> label [label=Relation]
+	label -> Synset__title__n__06 [label=IsA]
+	Synset__title__n__06 -> label [label=Relation]
+	label -> Synset__title__n__06 [label=IsA]
+	Synset__title__n__06 -> label [label=Relation]
+	label -> Synset__title__n__06 [label=IsA]
+	Synset__title__n__06 -> label [label=Relation]
+	label -> Synset__title__n__06 [label=IsA]
+	Synset__title__n__06 -> label [label=Relation]
+	label -> Synset__title__n__06 [label=IsA]
+	Synset__title__n__06 -> label [label=Relation]
+	label -> Synset__title__n__06 [label=IsA]
+	Synset__title__n__06 -> label [label=Relation]
+	label -> Synset__appellation__n__01 [label=IsA]
+	Synset__title__n__02 -> Synset__name__n__01 [label=IsA]
+	label -> Synset__name__n__01 [label=IsA]
+	Synset__possession__n__02 -> Synset__relation__n__01 [label=IsA]
+	Synset__transferred_property__n__01 -> Synset__possession__n__02 [label=IsA]
+	Synset__acquisition__n__02 -> Synset__transferred_property__n__01 [label=IsA]
+	Synset__gift__n__01 -> Synset__acquisition__n__02 [label=IsA]
+	label -> Synset__gift__n__01 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__aid__n__03 -> Synset__gift__n__01 [label=IsA]
+	Synset__scholarship__n__01 -> Synset__aid__n__03 [label=IsA]
+	Synset__outgo__n__01 -> Synset__transferred_property__n__01 [label=IsA]
+	Synset__cost__n__01 -> Synset__outgo__n__01 [label=IsA]
+	Synset__charge__n__03 -> Synset__cost__n__01 [label=IsA]
+	Synset__rate__n__02 -> Synset__charge__n__03 [label=IsA]
+	label -> Synset__rate__n__02 [label=IsA]
+	Synset__assets__n__01 -> Synset__possession__n__02 [label=IsA]
+	Synset__capital__n__01 -> Synset__assets__n__01 [label=IsA]
+	label -> Synset__capital__n__01 [label=IsA]
+	Synset__sum__n__01 -> Synset__assets__n__01 [label=IsA]
+	Synset__gain__n__04 -> Synset__sum__n__01 [label=IsA]
+	Synset__financial_gain__n__01 -> Synset__gain__n__04 [label=IsA]
+	Synset__income__n__01 -> Synset__financial_gain__n__01 [label=IsA]
+	Synset__net_income__n__01 -> Synset__income__n__01 [label=IsA]
+	Synset__accumulation__n__04 -> Synset__net_income__n__01 [label=IsA]
+	Synset__reserve__n__02 -> Synset__accumulation__n__04 [label=IsA]
+	Synset__relationship__n__01 -> Synset__relation__n__01 [label=IsA]
+	Synset__partnership__n__02 -> Synset__relationship__n__01 [label=IsA]
+	label -> Synset__relationship__n__01 [label=IsA]
+	Synset__communication__n__02 -> Synset__abstraction__n__06 [label=IsA]
+	Synset__language__n__01 -> Synset__communication__n__02 [label=IsA]
+	label -> Synset__language__n__01 [label=IsA]
+	Synset__artificial_language__n__01 -> Synset__language__n__01 [label=IsA]
+	label -> Synset__artificial_language__n__01 [label=IsA]
+	label -> Synset__language__n__01 [label=IsA]
+	Synset__language__n__01 -> label [label=Relation]
+	label -> Synset__language__n__01 [label=IsA]
+	Synset__language__n__01 -> label [label=Relation]
+	Synset__written_communication__n__01 -> Synset__communication__n__02 [label=IsA]
+	Synset__writing__n__02 -> Synset__written_communication__n__01 [label=IsA]
+	Synset__literary_composition__n__01 -> Synset__writing__n__02 [label=IsA]
+	label -> Synset__literary_composition__n__01 [label=IsA]
+	label -> Synset__literary_composition__n__01 [label=IsA]
+	Synset__literary_composition__n__01 -> label [label=Relation]
+	Synset__story__n__02 -> label [label=IsA]
+	label -> Synset__story__n__02 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> Synset__literary_composition__n__01 [label=IsA]
+	Synset__literary_composition__n__01 -> label [label=Relation]
+	Synset__dramatic_composition__n__01 -> Synset__writing__n__02 [label=IsA]
+	label -> Synset__dramatic_composition__n__01 [label=IsA]
+	label -> Synset__writing__n__02 [label=IsA]
+	Synset__document__n__01 -> Synset__writing__n__02 [label=IsA]
+	Synset__report__n__01 -> Synset__document__n__01 [label=IsA]
+	label -> Synset__report__n__01 [label=IsA]
+	Synset__legal_document__n__01 -> Synset__document__n__01 [label=IsA]
+	Synset__license__n__01 -> Synset__legal_document__n__01 [label=IsA]
+	label -> Synset__license__n__01 [label=IsA]
+	label -> Synset__license__n__01 [label=IsA]
+	Synset__license__n__01 -> label [label=Relation]
+	Synset__law__n__02 -> Synset__legal_document__n__01 [label=IsA]
+	Synset__fundamental_law__n__01 -> Synset__law__n__02 [label=IsA]
+	label -> Synset__fundamental_law__n__01 [label=IsA]
+	Synset__patent__n__01 -> Synset__document__n__01 [label=IsA]
+	label -> Synset__patent__n__01 [label=IsA]
+	Synset__criticism__n__03 -> Synset__writing__n__02 [label=IsA]
+	label -> Synset__criticism__n__03 [label=IsA]
+	Synset__diary__n__01 -> Synset__writing__n__02 [label=IsA]
+	label -> Synset__diary__n__01 [label=IsA]
+	Synset__treatise__n__01 -> Synset__writing__n__02 [label=IsA]
+	label -> Synset__treatise__n__01 [label=IsA]
+	Synset__monograph__n__01 -> Synset__treatise__n__01 [label=IsA]
+	label -> Synset__monograph__n__01 [label=IsA]
+	Synset__matter__n__06 -> Synset__writing__n__02 [label=IsA]
+	Synset__text__n__01 -> Synset__matter__n__06 [label=IsA]
+	Synset__installment__n__03 -> Synset__text__n__01 [label=IsA]
+	label -> Synset__installment__n__03 [label=IsA]
+	Synset__writing__n__04 -> Synset__written_communication__n__01 [label=IsA]
+	Synset__coding_system__n__01 -> Synset__writing__n__04 [label=IsA]
+	Synset__code__n__03 -> Synset__coding_system__n__01 [label=IsA]
+	label -> Synset__code__n__03 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__program__n__07 -> label [label=IsA]
+	Synset__application__n__04 -> Synset__program__n__07 [label=IsA]
+	label -> Synset__application__n__04 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__code__n__02 -> Synset__coding_system__n__01 [label=IsA]
+	label -> Synset__writing__n__04 [label=IsA]
+	Synset__notation__n__01 -> Synset__writing__n__04 [label=IsA]
+	Synset__musical_notation__n__01 -> Synset__notation__n__01 [label=IsA]
+	label -> Synset__musical_notation__n__01 [label=IsA]
+	Synset__note__n__03 -> Synset__musical_notation__n__01 [label=IsA]
+	label -> Synset__note__n__03 [label=IsA]
+	Synset__message__n__02 -> Synset__communication__n__02 [label=IsA]
+	Synset__subject__n__01 -> Synset__message__n__02 [label=IsA]
+	label -> Synset__subject__n__01 [label=IsA]
+	label -> Synset__subject__n__01 [label=IsA]
+	Synset__subject__n__01 -> label [label=Relation]
+	label -> Synset__subject__n__01 [label=IsA]
+	Synset__subject__n__01 -> label [label=Relation]
+	label -> Synset__subject__n__01 [label=IsA]
+	Synset__subject__n__01 -> label [label=Relation]
+	label -> Synset__subject__n__01 [label=IsA]
+	Synset__subject__n__01 -> label [label=Relation]
+	label -> Synset__subject__n__01 [label=IsA]
+	Synset__subject__n__01 -> label [label=Relation]
+	label -> Synset__subject__n__01 [label=IsA]
+	Synset__subject__n__01 -> label [label=Relation]
+	Synset__information__n__01 -> Synset__message__n__02 [label=IsA]
+	Synset__format__n__01 -> Synset__information__n__01 [label=IsA]
+	label -> Synset__format__n__01 [label=IsA]
+	label -> Synset__format__n__01 [label=IsA]
+	Synset__format__n__01 -> label [label=Relation]
+	label -> Synset__format__n__01 [label=IsA]
+	Synset__format__n__01 -> label [label=Relation]
+	label -> Synset__format__n__01 [label=IsA]
+	Synset__format__n__01 -> label [label=Relation]
+	label -> Synset__format__n__01 [label=IsA]
+	Synset__format__n__01 -> label [label=Relation]
+	Synset__database__n__01 -> Synset__information__n__01 [label=IsA]
+	Synset__fact__n__02 -> Synset__information__n__01 [label=IsA]
+	Synset__index__n__02 -> Synset__fact__n__02 [label=IsA]
+	label -> Synset__index__n__02 [label=IsA]
+	Synset__statement__n__01 -> Synset__message__n__02 [label=IsA]
+	Synset__announcement__n__02 -> Synset__statement__n__01 [label=IsA]
+	label -> Synset__announcement__n__02 [label=IsA]
+	Synset__amendment__n__02 -> Synset__statement__n__01 [label=IsA]
+	label -> Synset__amendment__n__02 [label=IsA]
+	Synset__prediction__n__02 -> Synset__statement__n__01 [label=IsA]
+	Synset__meteorology__n__01 -> Synset__prediction__n__02 [label=IsA]
+	label -> Synset__meteorology__n__01 [label=IsA]
+	Synset__direction__n__06 -> Synset__message__n__02 [label=IsA]
+	Synset__rule__n__03 -> Synset__direction__n__06 [label=IsA]
+	label -> Synset__rule__n__03 [label=IsA]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> Synset__direction__n__06 [label=IsA]
+	Synset__wit__n__01 -> Synset__message__n__02 [label=IsA]
+	Synset__cartoon__n__01 -> Synset__wit__n__01 [label=IsA]
+	label -> Synset__cartoon__n__01 [label=IsA]
+	Synset__narrative__n__01 -> Synset__message__n__02 [label=IsA]
+	label -> Synset__narrative__n__01 [label=IsA]
+	Synset__expressive_style__n__01 -> Synset__communication__n__02 [label=IsA]
+	label -> Synset__expressive_style__n__01 [label=IsA]
+	Synset__prose__n__01 -> label [label=IsA]
+	Synset__nonfiction__n__01 -> Synset__prose__n__01 [label=IsA]
+	label -> Synset__nonfiction__n__01 [label=IsA]
+	Synset__music_genre__n__01 -> Synset__expressive_style__n__01 [label=IsA]
+	label -> Synset__music_genre__n__01 [label=IsA]
+	Synset__classical_music__n__01 -> Synset__music_genre__n__01 [label=IsA]
+	Synset__auditory_communication__n__01 -> Synset__communication__n__02 [label=IsA]
+	Synset__music__n__01 -> Synset__auditory_communication__n__01 [label=IsA]
+	label -> Synset__music__n__01 [label=IsA]
+	Synset__song__n__01 -> label [label=IsA]
+	label -> Synset__song__n__01 [label=IsA]
+	Synset__anthem__n__01 -> Synset__song__n__01 [label=IsA]
+	label -> Synset__anthem__n__01 [label=IsA]
+	label -> Synset__song__n__01 [label=IsA]
+	Synset__song__n__01 -> label [label=Relation]
+	label -> Synset__song__n__01 [label=IsA]
+	Synset__song__n__01 -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	label -> label [label=IsA]
+	label -> label [label=Relation]
+	Synset__tune__n__01 -> Synset__music__n__01 [label=IsA]
+	label -> Synset__tune__n__01 [label=IsA]
+	Synset__theme_song__n__02 -> Synset__tune__n__01 [label=IsA]
+	label -> Synset__theme_song__n__02 [label=IsA]
+	Synset__section__n__01 -> Synset__music__n__01 [label=IsA]
+	Synset__passage__n__02 -> Synset__section__n__01 [label=IsA]
+	Synset__excerpt__n__01 -> Synset__passage__n__02 [label=IsA]
+	label -> Synset__excerpt__n__01 [label=IsA]
+	Synset__transition__n__05 -> Synset__passage__n__02 [label=IsA]
+	label -> Synset__transition__n__05 [label=IsA]
+	Synset__speech__n__02 -> Synset__auditory_communication__n__01 [label=IsA]
+	Synset__saying__n__01 -> Synset__speech__n__02 [label=IsA]
+	Synset__motto__n__01 -> Synset__saying__n__01 [label=IsA]
+	label -> Synset__motto__n__01 [label=IsA]
+	Synset__non_standard_speech__n__01 -> Synset__speech__n__02 [label=IsA]
+	label -> Synset__non_standard_speech__n__01 [label=IsA]
+	Synset__discussion__n__02 -> Synset__speech__n__02 [label=IsA]
+	label -> Synset__discussion__n__02 [label=IsA]
+	Synset__visual_communication__n__01 -> Synset__communication__n__02 [label=IsA]
+	Synset__video__n__01 -> Synset__visual_communication__n__01 [label=IsA]
+	label -> Synset__video__n__01 [label=IsA]
+	label -> Synset__visual_communication__n__01 [label=IsA]
+	Synset__display__n__05 -> Synset__communication__n__02 [label=IsA]
+	Synset__presentation__n__03 -> Synset__display__n__05 [label=IsA]
+	Synset__production__n__02 -> Synset__presentation__n__03 [label=IsA]
+	label -> Synset__production__n__02 [label=IsA]
+	Synset__signal__n__01 -> Synset__communication__n__02 [label=IsA]
+	Synset__symbol__n__01 -> Synset__signal__n__01 [label=IsA]
+	label -> Synset__symbol__n__01 [label=IsA]
+	label -> Synset__symbol__n__01 [label=IsA]
+	Synset__symbol__n__01 -> label [label=Relation]
+	Synset__message__n__01 -> Synset__communication__n__02 [label=IsA]
+	Synset__broadcast__n__01 -> Synset__message__n__01 [label=IsA]
+	label -> Synset__broadcast__n__01 [label=IsA]
+	Synset__indication__n__01 -> Synset__communication__n__02 [label=IsA]
+	Synset__evidence__n__02 -> Synset__indication__n__01 [label=IsA]
+	Synset__record__n__01 -> Synset__evidence__n__02 [label=IsA]
+	Synset__written_record__n__01 -> Synset__record__n__01 [label=IsA]
+	label -> Synset__written_record__n__01 [label=IsA]
+	Synset__register__n__01 -> Synset__written_record__n__01 [label=IsA]
+	label -> Synset__register__n__01 [label=IsA]
+}

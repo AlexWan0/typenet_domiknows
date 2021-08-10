@@ -14,11 +14,11 @@ import argparse
 
 from regr.sensor.pytorch.sensors import FunctionalSensor, ReaderSensor
 from regr.sensor.pytorch.learners import ModuleLearner
-from regr.program import SolverPOIProgram
+from regr.program import SolverPOIProgram, IMLProgram, POIProgram
 from regr.program.metric import MacroAverageTracker, PRF1Tracker, DatanodeCMMetric
 from regr.program.loss import NBCrossEntropyLoss, BCEWithLogitsLoss
 
-from TypenetGraph import app_graph
+from TypenetGraph_old import app_graph
 
 from sensors.MLPEncoder import MLPEncoder
 from sensors.TypeComparison import TypeComparison
@@ -54,11 +54,15 @@ with open(os.path.join('resources/MIL_data/entity_type_dict_orig.joblib'), "rb")
 
 wiki_train = WikiReader(file='resources/MIL_data/train.entities', type='file', file_data=file_data, bag_size=20, limit_size=args.limit)
 
+for a in wiki_train:
+    print(a['GoldTypes'])
+    break
+
 print('building graph')
 # get graph attributes
 app_graph.detach()
 mention = app_graph['mention']
-label = app_graph['label']
+label = app_graph['tag']
 
 # text data sensors
 mention['MentionRepresentation'] = ReaderSensor(keyword='MentionRepresentation')
@@ -71,14 +75,16 @@ mention[label] = ReaderSensor(keyword='GoldTypes', label=True)
 mention['encoded'] = ModuleLearner('Context', 'MentionRepresentation', module=MLPEncoder(pretrained_embeddings=file_data['embeddings'], mention_dim=file_data['embeddings'].shape[-1]))
 mention[label] = ModuleLearner('encoded', module=TypeComparison(config.num_types, config.type_embed_dim))
 
+app_graph.visualize("./image")
+
 # create program
 program = SolverPOIProgram(
     app_graph,
-    loss=MacroAverageTracker(BCEWithLogitsLoss()),
+    loss=MacroAverageTracker(NBCrossEntropyLoss()),
     metric=PRF1Tracker(DatanodeCMMetric())
     )
 
 print('training')
 # train
-program.train(wiki_train, train_epoch_num=1, Optim=torch.optim.Adam, device='cuda')
+program.train(wiki_train, train_epoch_num=1, Optim=torch.optim.Adam, device=config.device)
 

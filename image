@@ -1,0 +1,6 @@
+digraph global {
+	label="Graph: global"
+	mention
+	tag
+	tag -> mention [label=IsA]
+}

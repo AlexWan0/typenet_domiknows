@@ -24,6 +24,10 @@ class TypeComparison(nn.Module):
                         
                                 print(logits)'''
 
-        print(self.type_embeddings.weight.shape)
+        #print(self.type_embeddings.weight.shape)
 
-        return encoded
+        logits = self.log_sum_exp(encoded.permute(1, 0).unsqueeze(0))
+
+        #print(logits.shape)
+
+        return logits

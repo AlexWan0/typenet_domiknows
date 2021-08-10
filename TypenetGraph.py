@@ -20,7 +20,6 @@ with Graph('application') as app_graph:
     label = mention(name='label', ConceptClass=EnumConcept, values=lbl_list)
 
     Synset__entity__n__01 = Concept(name='Synset__entity__n__01')
-
     Synset__entity__n__01.is_a(mention)
 
     Synset__physical_entity__n__01 = Concept(name='Synset__physical_entity__n__01')
@@ -3893,5 +3892,3 @@ with Graph('application') as app_graph:
     Synset__register__n__01.is_a(Synset__written_record__n__01)
     #label.__internet__top_level_domain_registry = Concept(name='__internet__top_level_domain_registry')
     label.__internet__top_level_domain_registry()[0][0].is_a(Synset__register__n__01)
-
-    app_graph.visualize("./image2")
