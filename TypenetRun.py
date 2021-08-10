@@ -10,18 +10,7 @@ import os
 import joblib
 import pickle
 import torch
-
-# args
 import argparse
-import config
-
-parser = argparse.ArgumentParser()
-parser.add_argument('--limit', dest='limit', type=int, default=None)
-parser.add_argument('--device', dest='device', type=str, default='cpu')
-
-args = parser.parse_args()
-
-config.device = args.device
 
 from regr.sensor.pytorch.sensors import FunctionalSensor, ReaderSensor
 from regr.sensor.pytorch.learners import ModuleLearner
@@ -34,6 +23,14 @@ from TypenetGraph_old import app_graph
 from sensors.MLPEncoder import MLPEncoder
 from sensors.TypeComparison import TypeComparison
 from readers.TypenetReader import WikiReader
+
+import config
+
+# args
+parser = argparse.ArgumentParser()
+parser.add_argument('--limit', dest='limit', type=int, default=None)
+
+args = parser.parse_args()
 
 # load data
 file_data = {}
